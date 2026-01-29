@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Section 47 CPC Cannot Be Invoked After Decree Is Fully Executed: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/ananda-chandra-panda-v-the-collector-keonjhar-2026-insc-91-civil-appeal-post-execution-decree-1605935)
+- Thu, 29 Jan 2026 14:30:10 GMT
+
 ### [Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84 - Writ Petition - Registry Objection](https://www.caseciter.com/2026insc84/)
 - Mon, 26 Jan 2026 14:36:52 GMT
 
