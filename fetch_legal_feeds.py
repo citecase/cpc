@@ -1,32 +1,52 @@
-name: Sync CPC Feeds
+import feedparser
+import json
+import os
+from datetime import datetime
 
-on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+FEEDS = [
+    "https://www.livelaw.in/google_feeds.xml",
+    "https://www.verdictum.in/feed",
+    "https://caseciter.com/rss",
+    "https://www.scconline.com/blog/feed/"
+]
+KEYWORDS = ["cpc", "civil procedure"]
+JSON_FILE = "cpc.json"
+MD_FILE = "cpc.md"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+def fetch_and_filter():
+    if os.path.exists(JSON_FILE):
+        with open(JSON_FILE, "r", encoding="utf-8") as f:
+            try:
+                all_entries = json.load(f)
+            except:
+                all_entries = []
+    else:
+        all_entries = []
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    existing_links = {item['link'] for item in all_entries}
+    new_found = False
 
-      - name: Install Dependencies
-        run: pip install feedparser
+    for url in FEEDS:
+        feed = feedparser.parse(url)
+        for entry in feed.entries:
+            text = (entry.title + " " + entry.get('summary', '')).lower()
+            if any(kw in text for kw in KEYWORDS) and entry.link not in existing_links:
+                all_entries.insert(0, {
+                    "title": entry.title,
+                    "link": entry.link,
+                    "published": entry.get('published', datetime.now().strftime("%d %b %Y")),
+                    "source": url
+                })
+                existing_links.add(entry.link)
+                new_found = True
 
-      - name: Run Fetch Script
-        run: python fetch_legal_feeds.py
+    if new_found:
+        with open(JSON_FILE, "w", encoding="utf-8") as f:
+            json.dump(all_entries, f, indent=4)
+        with open(MD_FILE, "w", encoding="utf-8") as f:
+            f.write("# CPC & Civil Procedure Updates\n\n")
+            for item in all_entries:
+                f.write(f"### [{item['title']}]({item['link']})\n- {item['published']}\n\n")
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add cpc.json cpc.md
-          git commit -m "Auto-populate CPC updates from feeds" || exit 0
-          git push
+if __name__ == "__main__":
+    fetch_and_filter()
