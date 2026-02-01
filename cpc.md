@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [RGNUL, Punjab Conducts 40-Hour Mediation Training Programme In Collaboration With Supreme Court's MCPC](https://www.livelaw.in/lawschool/news/rgnul-punjab-conducts-40-hour-mediation-training-programme-collaboration-supreme-courts-mcpc-521431)
+- Sun, 01 Feb 2026 15:45:12 GMT
+
 ### [R. Srinivasan v.  Southern and Rajamani TPT Pvt. Ltd. - Art. 227 Constitution - CPC - Rejection Of Plaint](https://www.caseciter.com/r-srinivasan-v-southern-and-rajamani-tpt-pvt-ltd-art-227-constitution-cpc-rejection-of-plaint/)
 - Sat, 31 Jan 2026 07:56:31 GMT
 
