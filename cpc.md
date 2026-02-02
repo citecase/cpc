@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Equine activity in Matheran poses highest environmental and public health risk; NGT seeks response](https://www.scconline.com/blog/post/2026/02/02/equine-activity-in-matheran-poses-highest-environmental-risk-ngt/)
+- Mon, 02 Feb 2026 10:00:39 +0000
+
+### [No Bar To Consensual Transfer Of Matrimonial Cases U/S 24 CPC; Convenience Test Stands 'Considerably Diluted': Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-no-bar-consensual-transfer-matrimonial-cases-24-cpc-convenience-test-521528)
+- Mon, 02 Feb 2026 11:17:14 GMT
+
 ### [Law as Craft, Law as Calling – A Conversation with Mr. Bharat S. Kumar](https://www.scconline.com/blog/post/2026/02/02/law-as-craft-law-as-calling-a-conversation-with-mr-bharat-s-kumar/)
 - Mon, 02 Feb 2026 05:30:51 +0000
 
