@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Law as Craft, Law as Calling – A Conversation with Mr. Bharat S. Kumar](https://www.scconline.com/blog/post/2026/02/02/law-as-craft-law-as-calling-a-conversation-with-mr-bharat-s-kumar/)
+- Mon, 02 Feb 2026 05:30:51 +0000
+
 ### [RGNUL, Punjab Conducts 40-Hour Mediation Training Programme In Collaboration With Supreme Court's MCPC](https://www.livelaw.in/lawschool/news/rgnul-punjab-conducts-40-hour-mediation-training-programme-collaboration-supreme-courts-mcpc-521431)
 - Sun, 01 Feb 2026 15:45:12 GMT
 
