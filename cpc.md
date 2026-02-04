@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [P. Suresh v. D. Kalaivani  2026 INSC 121 - Art.227 Constitution - CPC - Rejection Of Plaint - Striking Off Pleading](https://www.caseciter.com/2026insc121/)
+- Wed, 04 Feb 2026 11:39:51 GMT
+
 ### [Merely Because Will Is 30-Year-Old Document, It Can’t Be Presumed To Have Been Duly Executed U/S.90 Of Evidence Act: Chhattisgarh High Court](https://www.verdictum.in/court-updates/high-courts/chhattisgarh-high-court/rampyare-v-shivshankar-2026cghc5238-will-30-year-old-document-executed-section-90-evidence-act-attesting-witnesses-1606316)
 - Mon, 02 Feb 2026 13:50:40 GMT
 
