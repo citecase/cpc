@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [High Courts Cannot Use Article 227 Powers To Reject Or Strike Off Plaint When CPC Remedy Exists: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/psuresh-v-dkalaivani-2026-insc-121-plaint-remedy-civil-procedure-code-1606579)
+- Thu, 05 Feb 2026 05:46:03 GMT
+
 ### [P. Suresh v. D. Kalaivani  2026 INSC 121 - Art.227 Constitution - CPC - Rejection Of Plaint - Striking Off Pleading](https://www.caseciter.com/2026insc121/)
 - Wed, 04 Feb 2026 11:39:51 GMT
 
