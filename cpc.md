@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Tharammel Peethambaran  v. T. Ushakrishnan  2026 INSC 134 - Secondary Evidence - Photostat - CPC - Second Appeal - Finding Of Facts](https://www.caseciter.com/2026insc134/)
+- Sat, 07 Feb 2026 11:49:59 GMT
+
+### [Can Third Party To Decree File Order IX Rule 13 CPC Application? Supreme Court Refers To Larger Bench](https://www.livelaw.in/top-stories/can-third-party-to-decree-file-order-ix-rule-13-cpc-application-supreme-court-refers-to-larger-bench-522305)
+- Sat, 07 Feb 2026 12:51:46 GMT
+
 ### [High Courts Cannot Use Article 227 Powers To Reject Or Strike Off Plaint When CPC Remedy Exists: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/psuresh-v-dkalaivani-2026-insc-121-plaint-remedy-civil-procedure-code-1606579)
 - Thu, 05 Feb 2026 05:46:03 GMT
 
