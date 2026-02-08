@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [N. Rajaram v. R. Murali - Order IX Rule 13 CPC - Third Party Application](https://www.caseciter.com/n-rajaram-v-r-murali-order-ix-rule-13-cpc-third-party-application/)
+- Sun, 08 Feb 2026 03:59:30 GMT
+
 ### [Tharammel Peethambaran  v. T. Ushakrishnan  2026 INSC 134 - Secondary Evidence - Photostat - CPC - Second Appeal - Finding Of Facts](https://www.caseciter.com/2026insc134/)
 - Sat, 07 Feb 2026 11:49:59 GMT
 
