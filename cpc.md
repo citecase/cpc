@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Code Of Civil Procedure (CPC): All India Annual Digest 2025](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-code-of-civil-procedure-521367)
+- Sun, 08 Feb 2026 10:31:10 GMT
+
 ### [N. Rajaram v. R. Murali - Order IX Rule 13 CPC - Third Party Application](https://www.caseciter.com/n-rajaram-v-r-murali-order-ix-rule-13-cpc-third-party-application/)
 - Sun, 08 Feb 2026 03:59:30 GMT
 
