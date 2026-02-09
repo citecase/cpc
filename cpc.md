@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Withdrawal of Suit Not Automatic On Mere Filing Of Application Under Order XXIII Rule 1 CPC: Allahabad High Court](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/jeera-devi-v-additional-district-judge-court-a227-no-4747-of-2019-withdrawal-suit-order-xxiii-rule-1-cpc-inherent-power-1607007)
+- Mon, 09 Feb 2026 15:00:43 GMT
+
+### [Intentional Judicial Decision Cannot Be Altered As 'Clerical Error' U/S 151 & 152 CPC; Remedy Lies In Appeal Or Review: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/intentional-adjudicatory-decision-challenged-sections-151-152-cpc-522489)
+- Mon, 09 Feb 2026 15:47:19 GMT
+
 ### [Code Of Civil Procedure (CPC): All India Annual Digest 2025](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-code-of-civil-procedure-521367)
 - Sun, 08 Feb 2026 10:31:10 GMT
 
