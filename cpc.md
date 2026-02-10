@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Mere Apprehension Of Adverse Order Not Ground To Transfer Suit U/S 24 CPC: Telangana High Court](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-transfer-petition-influence-allegations-522539)
+- Tue, 10 Feb 2026 09:21:16 GMT
+
 ### [Withdrawal of Suit Not Automatic On Mere Filing Of Application Under Order XXIII Rule 1 CPC: Allahabad High Court](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/jeera-devi-v-additional-district-judge-court-a227-no-4747-of-2019-withdrawal-suit-order-xxiii-rule-1-cpc-inherent-power-1607007)
 - Mon, 09 Feb 2026 15:00:43 GMT
 
