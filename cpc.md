@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Attestation Of Vakalatnama Not A Mere Procedural Formality; Vakalat Treated As ‘Defective’ Without It: Andhra Pradesh High Court](https://www.verdictum.in/court-updates/high-courts/andhra-pradesh-high-court/sankula-nagarjuna-v-the-state-of-andhra-pradesh-writ-petition-no-24152-of-2025-vakalatnama-advocate-attestation-1607157)
+- Wed, 11 Feb 2026 05:40:48 GMT
+
 ### [Mere Apprehension Of Adverse Order Not Ground To Transfer Suit U/S 24 CPC: Telangana High Court](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-transfer-petition-influence-allegations-522539)
 - Tue, 10 Feb 2026 09:21:16 GMT
 
