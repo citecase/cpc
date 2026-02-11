@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Civil Suit Alleging Coercion, Undue Influence Cannot Be Rejected At Threshold Under Order VII Rule 11 CPC : Supreme Court](https://www.livelaw.in/supreme-court/civil-suit-alleging-coercion-undue-influence-cannot-be-rejected-at-threshold-under-order-vii-rule-11-cpc-supreme-court-522706)
+- Wed, 11 Feb 2026 07:43:54 GMT
+
 ### [Attestation Of Vakalatnama Not A Mere Procedural Formality; Vakalat Treated As ‘Defective’ Without It: Andhra Pradesh High Court](https://www.verdictum.in/court-updates/high-courts/andhra-pradesh-high-court/sankula-nagarjuna-v-the-state-of-andhra-pradesh-writ-petition-no-24152-of-2025-vakalatnama-advocate-attestation-1607157)
 - Wed, 11 Feb 2026 05:40:48 GMT
 
