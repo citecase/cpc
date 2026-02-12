@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Framing Of Issues Not Mandatory In Execution Of Foreign Decrees U/S 44A CPC: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-foreign-decree-frame-issues-522951)
+- Thu, 12 Feb 2026 14:35:35 GMT
+
 ### [Civil Suit Alleging Coercion, Undue Influence Cannot Be Rejected At Threshold Under Order VII Rule 11 CPC : Supreme Court](https://www.livelaw.in/supreme-court/civil-suit-alleging-coercion-undue-influence-cannot-be-rejected-at-threshold-under-order-vii-rule-11-cpc-supreme-court-522706)
 - Wed, 11 Feb 2026 07:43:54 GMT
 
