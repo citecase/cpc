@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Undenied Pleadings Are Deemed Admitted By Implication Under CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-undenied-pleadings-are-deemed-admissions-under-cpc-court-quashes-ex-parte-bill-verification-orders-ut-to-clear-hotel-dues-523062)
+- Fri, 13 Feb 2026 13:30:35 GMT
+
 ### [Gouri Shankar Yadav v. Janki Dom (D) -CPC - Substitution Application - Delay Condonation](https://www.caseciter.com/gouri-shankar-yadav-v-janki-dom-d-cpc-substitution-application-delay-condonation/)
 - Fri, 13 Feb 2026 10:10:51 GMT
 
