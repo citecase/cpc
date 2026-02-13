@@ -1,5 +1,14 @@
 # CPC & Civil Procedure Updates
 
+### [Gouri Shankar Yadav v. Janki Dom (D) -CPC - Substitution Application - Delay Condonation](https://www.caseciter.com/gouri-shankar-yadav-v-janki-dom-d-cpc-substitution-application-delay-condonation/)
+- Fri, 13 Feb 2026 10:10:51 GMT
+
+### [Framing Of Issues Not Mandatory While Executing Foreign Decrees From Reciprocating Territories U/S 44A CPC: Bombay High Court](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/elis-jane-quinlan-v-naveen-kumar-seth-section-44a-of-the-code-of-civil-procedure-1908-1607420)
+- Fri, 13 Feb 2026 10:30:22 GMT
+
+### [Doctrine of Lis Pendens U/S. 52 Transfer Of Property Act Doesn’t Exclude Suits For Recovery Of Money: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/r-savithri-naidu-v-ms-the-cotton-corporation-of-india-limited-2026-insc-150-transferee-pendente-lite-post-arbitral-award-purchaser-execution-1607437)
+- Fri, 13 Feb 2026 13:00:27 GMT
+
 ### [Sections 151 and 152 CPC applies only to clerical or arithmetical error, not merit-based determinations: Kerala HC](https://www.scconline.com/blog/post/2026/02/13/s-151-cpc-applies-to-clerical-error-not-merit-based-issues-ker-hc/)
 - Fri, 13 Feb 2026 05:30:47 +0000
 
