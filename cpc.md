@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Sections 151 and 152 CPC applies only to clerical or arithmetical error, not merit-based determinations: Kerala HC](https://www.scconline.com/blog/post/2026/02/13/s-151-cpc-applies-to-clerical-error-not-merit-based-issues-ker-hc/)
+- Fri, 13 Feb 2026 05:30:47 +0000
+
 ### [Framing Of Issues Not Mandatory In Execution Of Foreign Decrees U/S 44A CPC: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-foreign-decree-frame-issues-522951)
 - Thu, 12 Feb 2026 14:35:35 GMT
 
