@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Land Acquisition Award Can Be Executed Through Multiple Petitions Till Full Realisation; S.38 CPC Not Applicable: Calcutta High Court](https://www.livelaw.in/high-court/calcutta-high-court/land-acquisition-award-can-be-executed-through-multiple-petitions-till-full-realisation-s38-cpc-not-applicable-calcutta-high-court-523394)
+- Tue, 17 Feb 2026 14:00:41 GMT
+
 ### [Precautionary Principle Overrides Sectoral Pollution Index: Supreme Court Strikes Down CPCB’s Downgrade Of Cement Grinding Units Near Schools](https://www.verdictum.in/court-updates/supreme-court/harbinder-singh-sekhon-v-the-state-of-punjab-2026-insc-159-cpcb-cement-unit-schools-environment-protection-judicial-review-1607745)
 - Tue, 17 Feb 2026 07:00:05 GMT
 
