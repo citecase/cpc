@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Precautionary Principle Overrides Sectoral Pollution Index: Supreme Court Strikes Down CPCB’s Downgrade Of Cement Grinding Units Near Schools](https://www.verdictum.in/court-updates/supreme-court/harbinder-singh-sekhon-v-the-state-of-punjab-2026-insc-159-cpcb-cement-unit-schools-environment-protection-judicial-review-1607745)
+- Tue, 17 Feb 2026 07:00:05 GMT
+
 ### [Undenied Pleadings Are Deemed Admitted By Implication Under CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-undenied-pleadings-are-deemed-admissions-under-cpc-court-quashes-ex-parte-bill-verification-orders-ut-to-clear-hotel-dues-523062)
 - Fri, 13 Feb 2026 13:30:35 GMT
 
