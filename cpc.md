@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### ['You Need Harsher Action': High Court Raps Delhi Govt Over Delay In Filling Up DCPCR Vacancies, Warns Of Serious Consequence](https://www.livelaw.in/high-court/delhi-high-court/you-need-harsher-action-high-court-raps-delhi-govt-over-delay-in-filling-up-dcpcr-vacancies-warns-of-serious-consequence-523662)
+- Wed, 18 Feb 2026 12:30:52 GMT
+
 ### [Kerala Water Authority v. T.I. Raju - Interest Act vs CPC](https://www.caseciter.com/kerala-water-authority-v-t-i-raju-interest-act-vs-cpc/)
 - Wed, 18 Feb 2026 05:00:50 GMT
 
