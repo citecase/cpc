@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Kerala Water Authority v. T.I. Raju - Interest Act vs CPC](https://www.caseciter.com/kerala-water-authority-v-t-i-raju-interest-act-vs-cpc/)
+- Wed, 18 Feb 2026 05:00:50 GMT
+
+### [Section 60 CPC Protection Applies Only In Execution Proceedings; Bank Can Exercise Lien Over Salary Account: Kerala High Court](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/the-divisional-manager-assistant-manager-canara-bank-v-agi-kumar-s-2026ker11262-1607849)
+- Wed, 18 Feb 2026 05:30:52 GMT
+
 ### [Land Acquisition Award Can Be Executed Through Multiple Petitions Till Full Realisation; S.38 CPC Not Applicable: Calcutta High Court](https://www.livelaw.in/high-court/calcutta-high-court/land-acquisition-award-can-be-executed-through-multiple-petitions-till-full-realisation-s38-cpc-not-applicable-calcutta-high-court-523394)
 - Tue, 17 Feb 2026 14:00:41 GMT
 
