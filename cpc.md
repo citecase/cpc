@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Hero Cycles Limited & Another v. Hero Ecotech Limited 2026 INSC 169 - Order XXXIX Rule 2A CPC](https://www.caseciter.com/2026insc169/)
+- Thu, 19 Feb 2026 05:23:31 GMT
+
 ### ['You Need Harsher Action': High Court Raps Delhi Govt Over Delay In Filling Up DCPCR Vacancies, Warns Of Serious Consequence](https://www.livelaw.in/high-court/delhi-high-court/you-need-harsher-action-high-court-raps-delhi-govt-over-delay-in-filling-up-dcpcr-vacancies-warns-of-serious-consequence-523662)
 - Wed, 18 Feb 2026 12:30:52 GMT
 
