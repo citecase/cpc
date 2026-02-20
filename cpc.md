@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Transfer To Commercial Court Doesn't Bar Additional Written Statement Or Counterclaim If Leave Granted Under CPC: Calcutta High Court](https://www.livelaw.in/high-court/calcutta-high-court/transfer-to-commercial-court-doesnt-bar-additional-written-statement-or-counterclaim-if-leave-granted-under-cpc-calcutta-high-court-523915)
+- Fri, 20 Feb 2026 08:15:16 GMT
+
 ### [Hero Cycles Limited & Another v. Hero Ecotech Limited 2026 INSC 169 - Order XXXIX Rule 2A CPC](https://www.caseciter.com/2026insc169/)
 - Thu, 19 Feb 2026 05:23:31 GMT
 
