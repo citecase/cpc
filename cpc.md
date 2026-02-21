@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Senior Consultants Vacancy At National Commission For Protection Of Child Rights (NCPCR)](https://www.livelaw.in/job-updates/senior-consultants-vacancy-at-national-commission-for-protection-of-child-rights-ncpcr-524074)
+- Sat, 21 Feb 2026 09:52:10 GMT
+
 ### [Transfer To Commercial Court Doesn't Bar Additional Written Statement Or Counterclaim If Leave Granted Under CPC: Calcutta High Court](https://www.livelaw.in/high-court/calcutta-high-court/transfer-to-commercial-court-doesnt-bar-additional-written-statement-or-counterclaim-if-leave-granted-under-cpc-calcutta-high-court-523915)
 - Fri, 20 Feb 2026 08:15:16 GMT
 
