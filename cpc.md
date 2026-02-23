@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Foreign Decree Awarding Damages For Breach Of Contract Cannot Be Capped By FEMA Or RBI Directions: Delhi High Court](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/peter-beck-und-partner-v-prakash-industries-ltd-2026dhc1547-foreign-courts-wales-fema-rbi-1608456)
+- Mon, 23 Feb 2026 16:00:29 GMT
+
 ### [Senior Consultants Vacancy At National Commission For Protection Of Child Rights (NCPCR)](https://www.livelaw.in/job-updates/senior-consultants-vacancy-at-national-commission-for-protection-of-child-rights-ncpcr-524074)
 - Sat, 21 Feb 2026 09:52:10 GMT
 
