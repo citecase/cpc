@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CAQM issues revised directions on Particulate Matter emission standards for industries in Delhi-NCR](https://www.scconline.com/blog/post/2026/02/24/caqm-issues-revised-pm-emission-standards-for-industries-in-delhi-ncr/)
+- Tue, 24 Feb 2026 05:00:15 +0000
+
 ### [Foreign Decree Awarding Damages For Breach Of Contract Cannot Be Capped By FEMA Or RBI Directions: Delhi High Court](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/peter-beck-und-partner-v-prakash-industries-ltd-2026dhc1547-foreign-courts-wales-fema-rbi-1608456)
 - Mon, 23 Feb 2026 16:00:29 GMT
 
