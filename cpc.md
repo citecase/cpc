@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order 43 Rule 1(c) CPC | Appeal Maintainable Against Rejection Of Delay Condonation In Plea For Restoration Of Suit: Gujarat High Court](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-delay-condonation-restoration-plea-524500)
+- Wed, 25 Feb 2026 06:10:21 GMT
+
 ### [CAQM issues revised directions on Particulate Matter emission standards for industries in Delhi-NCR](https://www.scconline.com/blog/post/2026/02/24/caqm-issues-revised-pm-emission-standards-for-industries-in-delhi-ncr/)
 - Tue, 24 Feb 2026 05:00:15 +0000
 
