@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Reliance General Insurance Company Limited v. Kanika 2026 INSC 188 - Compassionate Assistance Scheme - Motor Accident Compensation - Deduction - CPC](https://www.caseciter.com/2026insc188/)
+- Wed, 25 Feb 2026 11:59:01 GMT
+
 ### [Order 43 Rule 1(c) CPC | Appeal Maintainable Against Rejection Of Delay Condonation In Plea For Restoration Of Suit: Gujarat High Court](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-delay-condonation-restoration-plea-524500)
 - Wed, 25 Feb 2026 06:10:21 GMT
 
