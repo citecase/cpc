@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Bihar Public Service Commission (BPSC) Invites Applications For The Post Of Civil Judge (Junior Division)](https://www.verdictum.in/job-updates/bihar-public-service-commission-1608811)
+- Thu, 26 Feb 2026 16:00:29 GMT
+
 ### [Reliance General Insurance Company Limited v. Kanika 2026 INSC 188 - Compassionate Assistance Scheme - Motor Accident Compensation - Deduction - CPC](https://www.caseciter.com/2026insc188/)
 - Wed, 25 Feb 2026 11:59:01 GMT
 
