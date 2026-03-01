@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Additional Documents Can Be Disclosed Even At Argument Stage If Reasonable Cause Is Shown: Calcutta High Court](https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/usha-martin-limited-vs-balurghat-technologies-limited-1609005)
+- Sun, 01 Mar 2026 12:00:42 GMT
+
 ### [Bihar Public Service Commission (BPSC) Invites Applications For The Post Of Civil Judge (Junior Division)](https://www.verdictum.in/job-updates/bihar-public-service-commission-1608811)
 - Thu, 26 Feb 2026 16:00:29 GMT
 
