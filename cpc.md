@@ -1,5 +1,14 @@
 # CPC & Civil Procedure Updates
 
+### [A Case Of Daylight Judicial Murder: Allahabad High Court Pulls Up Trial Court Judge For Causing Illegal Gain To Plaintiff](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/nagar-nigam-ghaziabad-v-indra-mohan-sachdev-2026ahc40819-trial-court-death-certificate-action-against-judge-1609062)
+- Mon, 02 Mar 2026 07:30:53 GMT
+
+### [Order VII Rule 11 CPC | Plaint Can Be Rejected Only When Limitation Bar Is Apparent Ex Facie From Plaint Averments: Andhra Pradesh High Court](https://www.verdictum.in/court-updates/high-courts/andhra-pradesh-high-court/mikkilineni-yujaya-dinesh-babu-ors-v-pasala-satyavathi-limitation-1609082)
+- Mon, 02 Mar 2026 12:50:25 GMT
+
+### [Order XI Rule 1(5) CPC Gives Court Discretion To Accept Delayed Documents On Showing Reasonable Cause: Calcutta High Court](https://www.livelaw.in/high-court/calcutta-high-court/order-xi-rule-15-cpc-gives-court-discretion-to-accept-delayed-documents-on-showing-reasonable-cause-calcutta-high-court-525146)
+- Mon, 02 Mar 2026 11:31:07 GMT
+
 ### [Additional Documents Can Be Disclosed Even At Argument Stage If Reasonable Cause Is Shown: Calcutta High Court](https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/usha-martin-limited-vs-balurghat-technologies-limited-1609005)
 - Sun, 01 Mar 2026 12:00:42 GMT
 
