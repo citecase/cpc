@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order VI Rule 17 CPC Proviso Not Applicable To Pre-2002 Suits: Allahabad High Court Permits Amendment In 1997 Plaint](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-allows-amendment-suit-proviso-rule17order-vi-525485)
+- Fri, 06 Mar 2026 14:45:54 GMT
+
 ### [A Case Of Daylight Judicial Murder: Allahabad High Court Pulls Up Trial Court Judge For Causing Illegal Gain To Plaintiff](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/nagar-nigam-ghaziabad-v-indra-mohan-sachdev-2026ahc40819-trial-court-death-certificate-action-against-judge-1609062)
 - Mon, 02 Mar 2026 07:30:53 GMT
 
