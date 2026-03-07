@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Kept Matter Pending For Considerably Long Time: Madhya Pradesh High Court Orders Enquiry Against Trial Court Judge](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/ashok-kumar-and-others-v-smt-meera-devi-mcc-no-39-of-2022-matter-pending-long-time-enquiry-trial-judge-1609407)
+- Sat, 07 Mar 2026 11:10:59 GMT
+
 ### [Order VI Rule 17 CPC Proviso Not Applicable To Pre-2002 Suits: Allahabad High Court Permits Amendment In 1997 Plaint](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-allows-amendment-suit-proviso-rule17order-vi-525485)
 - Fri, 06 Mar 2026 14:45:54 GMT
 
