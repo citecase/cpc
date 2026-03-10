@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order XLI Rule 27 CPC | No Vested Right To Produce Additional Evidence At Appellate Stage : Supreme Court](https://www.livelaw.in/supreme-court/order-xli-rule-27-cpc-no-vested-right-to-produce-additional-evidence-at-appellate-stage-supreme-court-525765)
+- Tue, 10 Mar 2026 04:53:50 GMT
+
 ### [Kept Matter Pending For Considerably Long Time: Madhya Pradesh High Court Orders Enquiry Against Trial Court Judge](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/ashok-kumar-and-others-v-smt-meera-devi-mcc-no-39-of-2022-matter-pending-long-time-enquiry-trial-judge-1609407)
 - Sat, 07 Mar 2026 11:10:59 GMT
 
