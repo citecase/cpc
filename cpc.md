@@ -1,5 +1,17 @@
 # CPC & Civil Procedure Updates
 
+### [Gobind Singh vs Union of India  2026 INSC 211 -Order XLI Rule 27 CPC](https://www.caseciter.com/2026insc211/)
+- Tue, 10 Mar 2026 08:28:16 GMT
+
+### [Order 41 Rule 27 CPC| Additional Evidence Cannot Be Allowed To Fill Lacunae In Appeal: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/gobind-singh-v-union-of-india-2026-insc-211-order-41-rule-27-cpc-additional-evidence-in-appeal-1609581)
+- Tue, 10 Mar 2026 08:00:28 GMT
+
+### [Court Cannot Consider Documents Beyond Plaint While Deciding Order VII Rule 11 CPC Plea: Calcutta High Court](https://www.livelaw.in/high-court/calcutta-high-court/court-cannot-consider-documents-beyond-plaint-while-deciding-order-vii-rule-11-cpc-plea-calcutta-high-court-525828)
+- Tue, 10 Mar 2026 11:10:29 GMT
+
+### [Order VIII Rule 1A CPC Not A Bar To Producing Documents For Cross-Examining Witness: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-defendant-application-documents-production-525773)
+- Tue, 10 Mar 2026 11:15:29 GMT
+
 ### [Order XLI Rule 27 CPC | No Vested Right To Produce Additional Evidence At Appellate Stage : Supreme Court](https://www.livelaw.in/supreme-court/order-xli-rule-27-cpc-no-vested-right-to-produce-additional-evidence-at-appellate-stage-supreme-court-525765)
 - Tue, 10 Mar 2026 04:53:50 GMT
 
