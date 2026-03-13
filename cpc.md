@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Decree Holder With Charged Decree Enjoys Priority Over Unsecured Decree Holders U/S 73 CPC: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/decree-holder-with-a-charged-decree-enjoys-priority-over-unsecured-decree-holders-under-section-73-of-cpc-526272)
+- Fri, 13 Mar 2026 06:17:23 GMT
+
 ### [Gobind Singh vs Union of India  2026 INSC 211 -Order XLI Rule 27 CPC](https://www.caseciter.com/2026insc211/)
 - Tue, 10 Mar 2026 08:28:16 GMT
 
