@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Karnataka HC Seeks State's Response To Plea Challenging 120-Day Bar On Filing Written Statement Under State CPC Amendment](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-examine-filing-written-statement-state-cpc-amendment-526240)
+- Fri, 13 Mar 2026 07:10:35 GMT
+
 ### [Decree Holder With Charged Decree Enjoys Priority Over Unsecured Decree Holders U/S 73 CPC: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/decree-holder-with-a-charged-decree-enjoys-priority-over-unsecured-decree-holders-under-section-73-of-cpc-526272)
 - Fri, 13 Mar 2026 06:17:23 GMT
 
