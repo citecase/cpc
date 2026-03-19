@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Civil Court Can Use Section 151 CPC To Dismiss Suit As Infructuous If Cause Of Action Ceases: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-inherent-jurisdiction-section151-cpc-infructuous-527020)
+- Thu, 19 Mar 2026 09:00:29 GMT
+
 ### [Section 73 CPC Ensures Equality Among Unsecured Decree Holders But Does Not Override Priority Of Mortgage Or Charge: Kerala High Court](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/koshy-abraham-v-shaji-2026ker20267-section-73-civil-procedure-code-1609923)
 - Sun, 15 Mar 2026 09:00:19 GMT
 
