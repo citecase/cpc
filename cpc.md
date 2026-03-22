@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order XLI Rule 27 CPC Inapplicable In Appeal Against Order Of Temporary Injunction: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-orderxlirule27cpc-inapplicable-appeal-order-temporary-injunction-527348)
+- Sun, 22 Mar 2026 10:44:28 GMT
+
 ### [Civil Court Can Use Section 151 CPC To Dismiss Suit As Infructuous If Cause Of Action Ceases: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-inherent-jurisdiction-section151-cpc-infructuous-527020)
 - Thu, 19 Mar 2026 09:00:29 GMT
 
