@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Commercial Courts Act| Delay In Written Statement Filed Within 120 Days Can Be Explained Beyond That Period: Andhra Pradesh High Court](https://www.verdictum.in/court-updates/high-courts/andhra-pradesh-high-court/bunge-india-private-limited-v-ms-sree-mahalakshmi-oil-mills-commercial-courts-1610596)
+- Tue, 24 Mar 2026 16:00:57 GMT
+
 ### [Absence Of Notice U/S 24 CPC Not Fatal To Transfer Unless Prejudice Shown: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-prior-notice-absence-section24-cpc-transfer-order-527538)
 - Tue, 24 Mar 2026 10:45:13 GMT
 
