@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Absence Of Notice U/S 24 CPC Not Fatal To Transfer Unless Prejudice Shown: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-prior-notice-absence-section24-cpc-transfer-order-527538)
+- Tue, 24 Mar 2026 10:45:13 GMT
+
 ### [Asset Disclosure Can Be Directed Post-Award To Secure Claim: Kerala High Court Clarifies Scope Of Powers U/S 9 Arbitration Act](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/e-d-f-man-liquid-products-italia-srl-v-emil-traders-private-limited-2026ker21531-powers-us-9-arbitration-act-asset-disclosure-1610491)
 - Mon, 23 Mar 2026 08:00:37 GMT
 
