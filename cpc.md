@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Sharada Sanghi v. Asha Agarwal   2026 INSC 292 - Dismissal For Default - Res Judicata](https://www.caseciter.com/2026insc292/)
+- Wed, 25 Mar 2026 11:08:29 GMT
+
 ### [Commercial Courts Act| Delay In Written Statement Filed Within 120 Days Can Be Explained Beyond That Period: Andhra Pradesh High Court](https://www.verdictum.in/court-updates/high-courts/andhra-pradesh-high-court/bunge-india-private-limited-v-ms-sree-mahalakshmi-oil-mills-commercial-courts-1610596)
 - Tue, 24 Mar 2026 16:00:57 GMT
 
