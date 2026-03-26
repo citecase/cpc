@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Suit Dismissed For Default Not A “Decision On Merits” To Trigger Res Judicata U/S 11 CPC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/sharada-sanghi-ors-v-asha-agarwal-ors-2026-insc-292-res-judicata-1610697)
+- Thu, 26 Mar 2026 05:30:19 GMT
+
 ### [Sharada Sanghi v. Asha Agarwal   2026 INSC 292 - Dismissal For Default - Res Judicata](https://www.caseciter.com/2026insc292/)
 - Wed, 25 Mar 2026 11:08:29 GMT
 
