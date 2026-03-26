@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [No Appeal Lies Against Order On Transfer Application; Only Civil Revision Petition U/S.115 Of CPC Is Maintainable: Karnataka High Court](https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/ekta-kukreja-v-ms-srinivasa-trust-appeal-order-transfer-application-civil-revision-petition-sec-115-cpc-1610731)
+- Thu, 26 Mar 2026 11:00:18 GMT
+
 ### [Suit Dismissed For Default Not A “Decision On Merits” To Trigger Res Judicata U/S 11 CPC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/sharada-sanghi-ors-v-asha-agarwal-ors-2026-insc-292-res-judicata-1610697)
 - Thu, 26 Mar 2026 05:30:19 GMT
 
