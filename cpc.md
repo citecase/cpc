@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CPC | Amendment Can't Be Used To Retract Admissions Conferring Rights On Opposite Party: Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/cpc-amendment-cant-be-used-to-retract-admissions-conferring-rights-on-opposite-party-delhi-high-court-528147)
+- Sat, 28 Mar 2026 11:15:45 GMT
+
 ### [No Appeal Lies Against Order On Transfer Application; Only Civil Revision Petition U/S.115 Of CPC Is Maintainable: Karnataka High Court](https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/ekta-kukreja-v-ms-srinivasa-trust-appeal-order-transfer-application-civil-revision-petition-sec-115-cpc-1610731)
 - Thu, 26 Mar 2026 11:00:18 GMT
 
