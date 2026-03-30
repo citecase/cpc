@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Del HC: Order 7 Rule 11 application filed after expiry of statutory time doesn’t revive lapsed right to file Written Statement](https://www.scconline.com/blog/post/2026/03/30/del-hc-order-7-rule-11-cpc-plea-does-not-revive-ws-filing-period/)
+- Mon, 30 Mar 2026 08:30:50 +0000
+
 ### [CPC | Amendment Can't Be Used To Retract Admissions Conferring Rights On Opposite Party: Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/cpc-amendment-cant-be-used-to-retract-admissions-conferring-rights-on-opposite-party-delhi-high-court-528147)
 - Sat, 28 Mar 2026 11:15:45 GMT
 
