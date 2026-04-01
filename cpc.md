@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Legal Inspector Vacancy At Bharat Coking Coal Limited (BCCL)](https://www.verdictum.in/job-updates/bharat-coking-coal-limited-1611147)
+- Wed, 01 Apr 2026 16:00:31 GMT
+
 ### [Driving Licence Can’t Be Called Fake Merely Because It Was In Booklet Form: Delhi High Court Dismisses Insurance Company’s Appeal](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/the-new-india-assurance-company-ltd-v-ms-kapoor-diesels-garage-pvt-ltd-2026dhc2672-driving-licence-booklet-form-1611129)
 - Wed, 01 Apr 2026 08:00:03 GMT
 
