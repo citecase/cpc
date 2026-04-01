@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Driving Licence Can’t Be Called Fake Merely Because It Was In Booklet Form: Delhi High Court Dismisses Insurance Company’s Appeal](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/the-new-india-assurance-company-ltd-v-ms-kapoor-diesels-garage-pvt-ltd-2026dhc2672-driving-licence-booklet-form-1611129)
+- Wed, 01 Apr 2026 08:00:03 GMT
+
+### [Order 23 Rule 1 CPC Applies To S.11 Arbitration Act; Fresh Arbitration Barred After Abandoning Earlier Claim : Supreme Court](https://www.livelaw.in/supreme-court/order-23-rule-1-cpc-applies-to-s11-arbitration-act-fresh-arbitration-barred-after-abandoning-earlier-claim-supreme-court-528569)
+- Wed, 01 Apr 2026 12:50:36 GMT
+
 ### [Del HC: Order 7 Rule 11 application filed after expiry of statutory time doesn’t revive lapsed right to file Written Statement](https://www.scconline.com/blog/post/2026/03/30/del-hc-order-7-rule-11-cpc-plea-does-not-revive-ws-filing-period/)
 - Mon, 30 Mar 2026 08:30:50 +0000
 
