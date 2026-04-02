@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court: Subsequent Application Filed U/s.11 Of Arbitration Act Based On Same Cause Of Action Barred By Order 23 Rule 1 CPC](https://www.verdictum.in/court-updates/supreme-court/rajiv-gaddh-v-subodh-parkash-2026-insc-302-subsequent-application-section-116-arbitration-act-o23-r1-cpc-1611207)
+- Thu, 02 Apr 2026 09:00:08 GMT
+
 ### [Proviso To Order VI Rule 17 CPC Not Strictly Applicable To Amendment Of Grounds In Revision Or Appellate Proceedings: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-order-vi-rule-17-amendment-revision-appellate-proceedings-grounds-528668)
 - Thu, 02 Apr 2026 06:21:43 GMT
 
