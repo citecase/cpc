@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Proviso To Order VI Rule 17 CPC Not Strictly Applicable To Amendment Of Grounds In Revision Or Appellate Proceedings: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-order-vi-rule-17-amendment-revision-appellate-proceedings-grounds-528668)
+- Thu, 02 Apr 2026 06:21:43 GMT
+
+### [Order IX Rule 13 CPC Application Not Barred By Dismissal Of Appeal Against Ex-Parte Decree : Supreme Court](https://www.livelaw.in/supreme-court/order-ix-rule-13-cpc-application-not-barred-by-dismissal-of-appeal-against-ex-parte-decree-supreme-court-528676)
+- Thu, 02 Apr 2026 06:53:00 GMT
+
 ### [Legal Inspector Vacancy At Bharat Coking Coal Limited (BCCL)](https://www.verdictum.in/job-updates/bharat-coking-coal-limited-1611147)
 - Wed, 01 Apr 2026 16:00:31 GMT
 
