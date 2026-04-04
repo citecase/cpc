@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Are CPCB Guidelines On Petrol Pump Establishment Mandatory?  Supreme Court Refers To Larger Bench](https://www.livelaw.in/top-stories/are-cpcb-guidelines-on-petrol-pump-establishment-mandatory-supreme-court-refers-to-larger-bench-528981)
+- Sat, 04 Apr 2026 14:01:04 GMT
+
 ### [Can’t Expect Minor To Respond To Public Notice Independently: Supreme Court Quashes Ex Parte Order Granting Succession Certificate](https://www.verdictum.in/court-updates/supreme-court/deepesh-maheswari-v-renu-maheswari-2026-insc-306-minor-public-notice-ex-parte-order-succession-1611249)
 - Fri, 03 Apr 2026 05:00:57 GMT
 
