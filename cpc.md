@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Right To Go For Trial Is Plaintiff’s Vested Right Which Can’t Be Taken Away Under Procedure Of Summary Judgment: Calcutta High Court](https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/ms-s-g-karel-and-sons-jewellers-private-limited-v-ms-madan-lal-agarwalla-jewellers-trial-plaintiffs-vested-right-1611548)
+- Tue, 07 Apr 2026 11:30:51 GMT
+
 ### [Are CPCB Guidelines On Petrol Pump Establishment Mandatory?  Supreme Court Refers To Larger Bench](https://www.livelaw.in/top-stories/are-cpcb-guidelines-on-petrol-pump-establishment-mandatory-supreme-court-refers-to-larger-bench-528981)
 - Sat, 04 Apr 2026 14:01:04 GMT
 
