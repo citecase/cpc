@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Channappa (D) v. Parvatewwa (D) 2026 INSC 343 - Order II Rule 2 CPC - Omitted Relief - Second Suit](https://www.caseciter.com/2026insc343/)
+- Thu, 09 Apr 2026 14:18:43 GMT
+
 ### [Maurice W. Innis v. Lily Kazrooni @ Lily Arif Shaikh 2026 INSC 340. - S.47 CPC - Execution Court Jurisdiction](https://www.caseciter.com/2026insc340/)
 - Thu, 09 Apr 2026 12:26:30 GMT
 
