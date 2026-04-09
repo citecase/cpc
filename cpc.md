@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Maurice W. Innis v. Lily Kazrooni @ Lily Arif Shaikh 2026 INSC 340. - S.47 CPC - Execution Court Jurisdiction](https://www.caseciter.com/2026insc340/)
+- Thu, 09 Apr 2026 12:26:30 GMT
+
 ### [Right To Go For Trial Is Plaintiff’s Vested Right Which Can’t Be Taken Away Under Procedure Of Summary Judgment: Calcutta High Court](https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/ms-s-g-karel-and-sons-jewellers-private-limited-v-ms-madan-lal-agarwalla-jewellers-trial-plaintiffs-vested-right-1611548)
 - Tue, 07 Apr 2026 11:30:51 GMT
 
