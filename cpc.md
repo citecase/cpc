@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Absence Not Deliberate But Occurred Due To Counsel’s Lapse: Chhattisgarh High Court Orders Fresh Consideration Of Application To Set Aside Ex-Parte Decree](https://www.verdictum.in/court-updates/high-courts/chhattisgarh-high-court/ramkrishn-sahu-v-kamal-prasad-kasar-2026cghc16049-absence-counsels-lapse-order-9-rule-13-cpc-1611733)
+- Fri, 10 Apr 2026 04:30:28 GMT
+
 ### [Channappa (D) v. Parvatewwa (D) 2026 INSC 343 - Order II Rule 2 CPC - Omitted Relief - Second Suit](https://www.caseciter.com/2026insc343/)
 - Thu, 09 Apr 2026 14:18:43 GMT
 
