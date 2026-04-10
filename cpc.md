@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Omission To Seek Consequential Reliefs In Initial Suit Triggers Bar Under Order II Rule 2(3) CPC Against Subsequent Suit Seeking Them: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/channappa-d-thr-lrs-v-parvatewwa-d-thr-lrs-2026-insc-343-bar-under-order-ii-rule-23-cpc-against-subsequent-litigation-1611770)
+- Fri, 10 Apr 2026 11:00:58 GMT
+
 ### [Absence Not Deliberate But Occurred Due To Counsel’s Lapse: Chhattisgarh High Court Orders Fresh Consideration Of Application To Set Aside Ex-Parte Decree](https://www.verdictum.in/court-updates/high-courts/chhattisgarh-high-court/ramkrishn-sahu-v-kamal-prasad-kasar-2026cghc16049-absence-counsels-lapse-order-9-rule-13-cpc-1611733)
 - Fri, 10 Apr 2026 04:30:28 GMT
 
