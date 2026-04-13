@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Family Courts Can't Transfer Cases, Power Lies Only With HC Or District Court Under Section 24 CPC: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-transfer-powers-issue-section24-cpc-530056)
+- Mon, 13 Apr 2026 06:15:54 GMT
+
 ### [Omission To Seek Consequential Reliefs In Initial Suit Triggers Bar Under Order II Rule 2(3) CPC Against Subsequent Suit Seeking Them: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/channappa-d-thr-lrs-v-parvatewwa-d-thr-lrs-2026-insc-343-bar-under-order-ii-rule-23-cpc-against-subsequent-litigation-1611770)
 - Fri, 10 Apr 2026 11:00:58 GMT
 
