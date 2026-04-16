@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [S. Valliammai v. S. Ramanathan  2026 INSC 372 - CPC - Rejection Of Plaint - Omission To Seek Relief](https://www.caseciter.com/2026insc372/)
+- Thu, 16 Apr 2026 12:24:57 GMT
+
 ### [Family Courts Can't Transfer Cases, Power Lies Only With HC Or District Court Under Section 24 CPC: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-transfer-powers-issue-section24-cpc-530056)
 - Mon, 13 Apr 2026 06:15:54 GMT
 
