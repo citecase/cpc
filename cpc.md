@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Plaint Can't Be Rejected Under Order VII Rule 11 As Barred Under Order II Rule 2 CPC : Supreme Court](https://www.livelaw.in/supreme-court/plaint-cant-be-rejected-under-order-vii-rule-11-as-barred-under-order-ii-rule-2-cpc-supreme-court-530645)
+- Fri, 17 Apr 2026 05:56:56 GMT
+
 ### [S. Valliammai v. S. Ramanathan  2026 INSC 372 - CPC - Rejection Of Plaint - Omission To Seek Relief](https://www.caseciter.com/2026insc372/)
 - Thu, 16 Apr 2026 12:24:57 GMT
 
