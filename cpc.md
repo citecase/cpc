@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Pramod Shroff v. Mohan Singh Chopra, 2026 INSC 378 - CPC - Points For Determination - Ex Parte Suits](https://www.caseciter.com/2026insc378/)
+- Sat, 18 Apr 2026 10:42:06 GMT
+
 ### [Order 7 Rule 11 CPC Cannot Revive Lapsed Written Statement Deadline: Delhi High Court Clarifies](https://www.scconline.com/blog/post/2026/04/18/order-7-rule-11-cpc-written-statement-deadline-delhi-hc/)
 - Sat, 18 Apr 2026 04:00:46 +0000
 
