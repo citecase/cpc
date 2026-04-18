@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order 7 Rule 11 CPC Cannot Revive Lapsed Written Statement Deadline: Delhi High Court Clarifies](https://www.scconline.com/blog/post/2026/04/18/order-7-rule-11-cpc-written-statement-deadline-delhi-hc/)
+- Sat, 18 Apr 2026 04:00:46 +0000
+
 ### [Plaint Can't Be Rejected Under Order VII Rule 11 As Barred Under Order II Rule 2 CPC : Supreme Court](https://www.livelaw.in/supreme-court/plaint-cant-be-rejected-under-order-vii-rule-11-as-barred-under-order-ii-rule-2-cpc-supreme-court-530645)
 - Fri, 17 Apr 2026 05:56:56 GMT
 
