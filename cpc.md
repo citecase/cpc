@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Executing Court Cannot Issue Levy Warrants While S.47 CPC Challenge To Decree Remains Pending: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-executing-court-cannot-issue-levy-warrants-during-pendency-of-section-47-objection-skipping-adjudication-renders-statutory-remedy-illusory-530804)
+- Sun, 19 Apr 2026 06:05:01 GMT
+
 ### [Pramod Shroff v. Mohan Singh Chopra, 2026 INSC 378 - CPC - Points For Determination - Ex Parte Suits](https://www.caseciter.com/2026insc378/)
 - Sat, 18 Apr 2026 10:42:06 GMT
 
