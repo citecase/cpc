@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Biomedical Waste Charges: Telangana High Court Upholds CPCB's Differential User Fee For Bedded, Non-Bedded Hospitals](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-user-fee-hospitals-biomedical-waste-charges-530918)
+- Mon, 20 Apr 2026 05:15:48 GMT
+
 ### [Executing Court Cannot Issue Levy Warrants While S.47 CPC Challenge To Decree Remains Pending: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-executing-court-cannot-issue-levy-warrants-during-pendency-of-section-47-objection-skipping-adjudication-renders-statutory-remedy-illusory-530804)
 - Sun, 19 Apr 2026 06:05:01 GMT
 
