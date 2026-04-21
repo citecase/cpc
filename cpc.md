@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Power to review judgement or order under Section 114 and Order 47 CPC can’t be exercised suo moto; APTE set asides CERC’s modification order](https://www.scconline.com/blog/post/2026/04/21/aptel-cerc-review-without-plea-hearing-parties-unsustainable/)
+- Tue, 21 Apr 2026 03:30:52 +0000
+
+### [S. 100 CPC | Findings Of Fact, Even If Erroneous, Cannot Be Disturbed In Second Appeal: Supreme Court](https://www.livelaw.in/supreme-court/s-100-cpc-findings-of-fact-even-if-erroneous-cannot-be-disturbed-in-second-appeal-supreme-court-531109)
+- Tue, 21 Apr 2026 06:16:48 GMT
+
 ### [Biomedical Waste Charges: Telangana High Court Upholds CPCB's Differential User Fee For Bedded, Non-Bedded Hospitals](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-user-fee-hospitals-biomedical-waste-charges-530918)
 - Mon, 20 Apr 2026 05:15:48 GMT
 
