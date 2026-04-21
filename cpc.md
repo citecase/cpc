@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [MARG Limited v. Sushil Lalwani  2026 INSC 402 CPC - Rejection Of Plaint](https://www.caseciter.com/2026insc402/)
+- Tue, 21 Apr 2026 13:45:27 GMT
+
+### [Messer Griesheim GmbH (now called Air Liquide Deutschland GmbH) v. Goyal MG Gases Private Limited  2026 INSC 401 - CPC - FERA - Foreign Judgment](https://www.caseciter.com/2026insc401/)
+- Tue, 21 Apr 2026 13:58:38 GMT
+
 ### [Power to review judgement or order under Section 114 and Order 47 CPC can’t be exercised suo moto; APTE set asides CERC’s modification order](https://www.scconline.com/blog/post/2026/04/21/aptel-cerc-review-without-plea-hearing-parties-unsustainable/)
 - Tue, 21 Apr 2026 03:30:52 +0000
 
