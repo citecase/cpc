@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order 7 Rule 11 CPC | Plaint Can't Be Rejected Over Deficiency In Valuation, Court Fee Without Giving Chance To Rectify: Supreme Court](https://www.livelaw.in/top-stories/supreme-court-order-7-rule-11-cpc-plaint-cannot-be-rejected-over-deficiency-in-valuation-court-fee-without-chance-to-rectify-531322)
+- Wed, 22 Apr 2026 11:20:28 GMT
+
 ### [MARG Limited v. Sushil Lalwani  2026 INSC 402 CPC - Rejection Of Plaint](https://www.caseciter.com/2026insc402/)
 - Tue, 21 Apr 2026 13:45:27 GMT
 
