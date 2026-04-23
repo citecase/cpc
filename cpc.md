@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CPC Applies To Election Petitions Only Subject To RP Act; 'Proper Parties' Cannot Be Added Beyond Statute: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-cpc-procedure-applicable-to-trial-of-election-petitions-only-subject-to-provisions-of-representation-of-people-act-contrary-provisions-cannot-be-invoked-531419)
+- Thu, 23 Apr 2026 07:31:11 GMT
+
 ### [Order 7 Rule 11 CPC | Plaint Can't Be Rejected Over Deficiency In Valuation, Court Fee Without Giving Chance To Rectify: Supreme Court](https://www.livelaw.in/top-stories/supreme-court-order-7-rule-11-cpc-plaint-cannot-be-rejected-over-deficiency-in-valuation-court-fee-without-chance-to-rectify-531322)
 - Wed, 22 Apr 2026 11:20:28 GMT
 
