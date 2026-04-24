@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Deletion Under Order 1 Rule 10 CPC Not Akin To Withdrawal Of Suit; Deleted Pendente Lite Purchaser Remains Bound By Decree: Bombay HC](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-deletion-defendant-order1rule10-cpc-withdrawal-suit-531589)
+- Fri, 24 Apr 2026 07:40:45 GMT
+
 ### [Legal Representatives Must Challenge Arbitral Awards Under Section 34, Not Article 227 or Section 115 CPC: Supreme Court](https://www.scconline.com/blog/post/2026/04/23/sc-challenge-to-arbitral-award-by-legal-representatives-under-section-34-article-227/)
 - Thu, 23 Apr 2026 12:00:31 +0000
 
