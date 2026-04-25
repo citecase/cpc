@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Uttarakhand High Court Enhances Motor Accident Compensation Without Cross-Appeal, Invokes Order 41 Rule 33 CPC](https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-enhances-motor-accident-compensation-order41rule33-cpc-531728)
+- Sat, 25 Apr 2026 10:06:23 GMT
+
 ### [Deletion Under Order 1 Rule 10 CPC Not Akin To Withdrawal Of Suit; Deleted Pendente Lite Purchaser Remains Bound By Decree: Bombay HC](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-deletion-defendant-order1rule10-cpc-withdrawal-suit-531589)
 - Fri, 24 Apr 2026 07:40:45 GMT
 
