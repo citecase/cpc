@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [RGNUL Conducts 20-Hour Advanced Mediation Training Programme Under MCPC, Supreme Court](https://www.livelaw.in/lawschool/news/rgnul-conducts-20-hour-advanced-mediation-training-programme-under-mcpc-supreme-court-532067)
+- Tue, 28 Apr 2026 11:28:58 GMT
+
 ### [2026 SCC Vol. 3 Part 4: Key Supreme Court Cases on Arbitration, Civil Procedure Code, SARFAESI Act, & more](https://www.scconline.com/blog/post/2026/04/28/2026-scc-vol-3-part-4-latest-supreme-court-cases/)
 - Tue, 28 Apr 2026 03:30:24 +0000
 
