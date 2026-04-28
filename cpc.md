@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [2026 SCC Vol. 3 Part 4: Key Supreme Court Cases on Arbitration, Civil Procedure Code, SARFAESI Act, & more](https://www.scconline.com/blog/post/2026/04/28/2026-scc-vol-3-part-4-latest-supreme-court-cases/)
+- Tue, 28 Apr 2026 03:30:24 +0000
+
 ### [Uttarakhand High Court Enhances Motor Accident Compensation Without Cross-Appeal, Invokes Order 41 Rule 33 CPC](https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-enhances-motor-accident-compensation-order41rule33-cpc-531728)
 - Sat, 25 Apr 2026 10:06:23 GMT
 
