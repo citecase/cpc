@@ -1,5 +1,14 @@
 # CPC & Civil Procedure Updates
 
+### [Deshraj Singh Parmar  v. Ram Babu Agarwal - CPC - First Appeal](https://www.caseciter.com/deshraj-singh-parmar-v-ram-babu-agarwal-cpc-first-appeal/)
+- Wed, 29 Apr 2026 04:21:52 GMT
+
+### [Challani Ginning and Pressing Factory v. Kamal  2026 INSC 426 - CPC - Objector - Ignorance Of Suit](https://www.caseciter.com/2026insc426/)
+- Wed, 29 Apr 2026 05:13:36 GMT
+
+### [Akkiraju Panduranga Rao  v. Gundlapally Ranga Rao  2026 INSC 428 CPC - Amendment Of Pleadings -Liberal Approach](https://www.caseciter.com/2026insc428/)
+- Wed, 29 Apr 2026 05:28:35 GMT
+
 ### [RGNUL Conducts 20-Hour Advanced Mediation Training Programme Under MCPC, Supreme Court](https://www.livelaw.in/lawschool/news/rgnul-conducts-20-hour-advanced-mediation-training-programme-under-mcpc-supreme-court-532067)
 - Tue, 28 Apr 2026 11:28:58 GMT
 
