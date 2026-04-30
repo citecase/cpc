@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [“Proper Parties” Concept Inapplicable in Election Petitions; CPC is subject to RP Act: J&K and Ladakh HC](https://www.scconline.com/blog/post/2026/04/30/concept-of-proper-parties-not-applicable-in-election-petitions-jk-hc/)
+- Thu, 30 Apr 2026 05:30:42 +0000
+
+### [Delhi High Court Refuses Habeas Corpus Plea In Transnational Custody Dispute, Directs Father To NCPCR Mediation Mechanism](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-refuses-habeas-corpus-plea-in-transnational-custody-dispute-directs-father-to-ncpcr-mediation-mechanism-532288)
+- Thu, 30 Apr 2026 08:15:46 GMT
+
 ### [Deshraj Singh Parmar  v. Ram Babu Agarwal - CPC - First Appeal](https://www.caseciter.com/deshraj-singh-parmar-v-ram-babu-agarwal-cpc-first-appeal/)
 - Wed, 29 Apr 2026 04:21:52 GMT
 
