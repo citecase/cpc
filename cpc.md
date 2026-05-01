@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Reliance Eminent Trading and Commercial Private Limited v. Delhi Development Authority 2026 INSC 436 - CPC - Commercial Suits - Summary Judgment-  Guidelines](https://www.caseciter.com/2026insc436/)
+- Fri, 01 May 2026 03:54:44 GMT
+
 ### [“Proper Parties” Concept Inapplicable in Election Petitions; CPC is subject to RP Act: J&K and Ladakh HC](https://www.scconline.com/blog/post/2026/04/30/concept-of-proper-parties-not-applicable-in-election-petitions-jk-hc/)
 - Thu, 30 Apr 2026 05:30:42 +0000
 
