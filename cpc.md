@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order XIII-A CPC | Supreme Court Lays Down Guidelines For Summary Judgment In Commercial Suits](https://www.livelaw.in/supreme-court/order-xiii-a-cpc-supreme-court-lays-down-guidelines-for-summary-judgment-in-commercial-suits-532522)
+- Fri, 01 May 2026 12:30:03 GMT
+
 ### [Reliance Eminent Trading and Commercial Private Limited v. Delhi Development Authority 2026 INSC 436 - CPC - Commercial Suits - Summary Judgment-  Guidelines](https://www.caseciter.com/2026insc436/)
 - Fri, 01 May 2026 03:54:44 GMT
 
