@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order XXI Rule 97 CPC | Decree Execution Can't Be Stalled By Raising Belated Objection : Supreme Court](https://www.livelaw.in/supreme-court/order-xxi-rule-97-cpc-decree-execution-cant-be-stalled-by-raising-belated-objection-supreme-court-532585)
+- Sat, 02 May 2026 09:10:29 GMT
+
+### [Once Status Of Property Becomes A Triable Issue, Plaint Cannot Be Rejected Under Order VII Rule 11 CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-once-status-of-property-as-joint-holding-or-partitioned-becomes-triable-issue-plaint-cannot-be-rejected-under-order-vii-rule-11-cpc-532589)
+- Sat, 02 May 2026 11:16:14 GMT
+
 ### [Order XIII-A CPC | Supreme Court Lays Down Guidelines For Summary Judgment In Commercial Suits](https://www.livelaw.in/supreme-court/order-xiii-a-cpc-supreme-court-lays-down-guidelines-for-summary-judgment-in-commercial-suits-532522)
 - Fri, 01 May 2026 12:30:03 GMT
 
