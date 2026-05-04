@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order 8 Rule 1-A CPC | HP High Court Refuses Belated Production Of Public Documents, Cites Lack Of Due Diligence](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-refuses-belated-production-public-documents-due-diligence-532733)
+- Mon, 04 May 2026 09:00:47 GMT
+
 ### [Order XXI Rule 97 CPC | Decree Execution Can't Be Stalled By Raising Belated Objection : Supreme Court](https://www.livelaw.in/supreme-court/order-xxi-rule-97-cpc-decree-execution-cant-be-stalled-by-raising-belated-objection-supreme-court-532585)
 - Sat, 02 May 2026 09:10:29 GMT
 
