@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court Quarterly Digest 2026 - Code of Civil Procedure (CPC)](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-quarterly-digest-civil-procedure-code-2026-532736)
+- Thu, 07 May 2026 03:30:09 GMT
+
 ### [Order 8 Rule 1-A CPC | HP High Court Refuses Belated Production Of Public Documents, Cites Lack Of Due Diligence](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-refuses-belated-production-public-documents-due-diligence-532733)
 - Mon, 04 May 2026 09:00:47 GMT
 
