@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Saroj Dilip Gandhi v. Nilesh Subhash Chopda - S.24 CPC - Transfer Of Suit- De Novo Trial](https://www.caseciter.com/saroj-dilip-gandhi-v-nilesh-subhash-chopda-s-24-cpc-transfer-of-suit-de-novo-trial/)
+- Thu, 07 May 2026 07:46:31 GMT
+
 ### [Supreme Court Quarterly Digest 2026 - Code of Civil Procedure (CPC)](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-quarterly-digest-civil-procedure-code-2026-532736)
 - Thu, 07 May 2026 03:30:09 GMT
 
