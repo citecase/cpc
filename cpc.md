@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Fatal Accident Claims Under 1855 Act To Be Registered As Original Suits; Appeal Under S.96 CPC Maintainable Against Decree: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-fatal-accident-original-petitions-appeallable-under-cpc-533364)
+- Fri, 08 May 2026 07:30:41 GMT
+
 ### [Saroj Dilip Gandhi v. Nilesh Subhash Chopda - S.24 CPC - Transfer Of Suit- De Novo Trial](https://www.caseciter.com/saroj-dilip-gandhi-v-nilesh-subhash-chopda-s-24-cpc-transfer-of-suit-de-novo-trial/)
 - Thu, 07 May 2026 07:46:31 GMT
 
