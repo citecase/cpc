@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Sheikh Abedin v. Iqbal Ahmed- Order XII Rule 6 CPC - Judgment on Admission](https://www.caseciter.com/sheikh-abedin-v-iqbal-ahmed-order-xii-rule-6-cpc-judgment-on-admission/)
+- Fri, 08 May 2026 15:45:42 GMT
+
+### [Inherent Powers U/S 151 CPC Can Be Exercised Post-Award To Prevent Unjust Enrichment In Land Acquisition Cases: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-inherent-powers-under-section-151-cpc-can-be-exercised-post-award-to-prevent-unjust-enrichment-in-land-acquisition-cases-533484)
+- Fri, 08 May 2026 15:30:17 GMT
+
 ### [Fatal Accident Claims Under 1855 Act To Be Registered As Original Suits; Appeal Under S.96 CPC Maintainable Against Decree: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-fatal-accident-original-petitions-appeallable-under-cpc-533364)
 - Fri, 08 May 2026 07:30:41 GMT
 
