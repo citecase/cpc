@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order VII Rule 11 CPC | Plaint Must Be Meaningfully Read To See If  Statutory Bar Is Veiled By Clever Drafting: Supreme Court](https://www.livelaw.in/supreme-court/order-vii-rule-11-cpc-plaint-must-be-meaningfully-read-to-see-if-statutory-bar-is-veiled-by-clever-drafting-supreme-court-533625)
+- Sun, 10 May 2026 08:11:29 GMT
+
 ### [Sheikh Abedin v. Iqbal Ahmed- Order XII Rule 6 CPC - Judgment on Admission](https://www.caseciter.com/sheikh-abedin-v-iqbal-ahmed-order-xii-rule-6-cpc-judgment-on-admission/)
 - Fri, 08 May 2026 15:45:42 GMT
 
