@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order XII Rule 6 CPC | Admission Made In Criminal Case Can Be Used In Civil Proceedings: Supreme Court](https://www.livelaw.in/supreme-court/order-xii-rule-6-cpc-admission-made-in-criminal-case-can-be-used-in-civil-proceedings-supreme-court-533795)
+- Mon, 11 May 2026 14:30:48 GMT
+
 ### [Order VII Rule 11 CPC | Plaint Must Be Meaningfully Read To See If  Statutory Bar Is Veiled By Clever Drafting: Supreme Court](https://www.livelaw.in/supreme-court/order-vii-rule-11-cpc-plaint-must-be-meaningfully-read-to-see-if-statutory-bar-is-veiled-by-clever-drafting-supreme-court-533625)
 - Sun, 10 May 2026 08:11:29 GMT
 
