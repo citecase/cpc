@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [B.S. Lalitha  v. Bhuvanesh  2026 INSC 499 - S.6(5) Hindu Succession Act - Partition Suit - CPC- Res Judicata - Rejection Of Plaint](https://www.caseciter.com/2026insc499/)
+- Fri, 15 May 2026 17:02:27 GMT
+
 ### [Order XII Rule 6 CPC | Admission Made In Criminal Case Can Be Used In Civil Proceedings: Supreme Court](https://www.livelaw.in/supreme-court/order-xii-rule-6-cpc-admission-made-in-criminal-case-can-be-used-in-civil-proceedings-supreme-court-533795)
 - Mon, 11 May 2026 14:30:48 GMT
 
