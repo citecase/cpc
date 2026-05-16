@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Dharmendra Kalra  v. Kulvinder Singh Bhatia  2026 INSC 492 - CPC - Striking Off Defence](https://www.caseciter.com/2026insc492/)
+- Sat, 16 May 2026 03:20:54 GMT
+
 ### [B.S. Lalitha  v. Bhuvanesh  2026 INSC 499 - S.6(5) Hindu Succession Act - Partition Suit - CPC- Res Judicata - Rejection Of Plaint](https://www.caseciter.com/2026insc499/)
 - Fri, 15 May 2026 17:02:27 GMT
 
