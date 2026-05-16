@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Clever Drafting Cannot Save a Benami Claim: Supreme Court on Meaningful Reading of Plaint Under Order 7 Rule 11](https://www.scconline.com/blog/post/2026/05/16/order-7-rule-11-cpc-rejection-of-plaint-meaningful-reading-benami-bar/)
+- Sat, 16 May 2026 07:30:34 +0000
+
 ### [Dharmendra Kalra  v. Kulvinder Singh Bhatia  2026 INSC 492 - CPC - Striking Off Defence](https://www.caseciter.com/2026insc492/)
 - Sat, 16 May 2026 03:20:54 GMT
 
