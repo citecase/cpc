@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [2026 SCC Vol. 4 Part 1: Key Supreme Court Cases on Arbitration, Civil Procedure Code, Consumer Protection, Income Tax & more](https://www.scconline.com/blog/post/2026/05/17/2026-scc-vol-4-part-1-latest-supreme-court-cases/)
+- Sun, 17 May 2026 05:30:39 +0000
+
 ### [Clever Drafting Cannot Save a Benami Claim: Supreme Court on Meaningful Reading of Plaint Under Order 7 Rule 11](https://www.scconline.com/blog/post/2026/05/16/order-7-rule-11-cpc-rejection-of-plaint-meaningful-reading-benami-bar/)
 - Sat, 16 May 2026 07:30:34 +0000
 
