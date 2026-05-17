@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order XV Rule 5 CPC | Tenant's Defence Cannot Be Struck Off Without Examining If Default In Rent Deposit Was Wilful : Supreme Court](https://www.livelaw.in/supreme-court/order-xv-rule-5-cpc-tenants-defence-cannot-be-struck-off-without-examining-if-default-in-rent-deposit-was-wilful-supreme-court-534514)
+- Sun, 17 May 2026 13:05:20 GMT
+
 ### [2026 SCC Vol. 4 Part 1: Key Supreme Court Cases on Arbitration, Civil Procedure Code, Consumer Protection, Income Tax & more](https://www.scconline.com/blog/post/2026/05/17/2026-scc-vol-4-part-1-latest-supreme-court-cases/)
 - Sun, 17 May 2026 05:30:39 +0000
 
