@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Jennifer Messias v. Leonard G. Lobo 2026 INSC 502 - CPC - Decree - Partition Act](https://www.caseciter.com/2026insc502/)
+- Mon, 18 May 2026 11:51:58 GMT
+
 ### [Order XV Rule 5 CPC | Tenant's Defence Cannot Be Struck Off Without Examining If Default In Rent Deposit Was Wilful : Supreme Court](https://www.livelaw.in/supreme-court/order-xv-rule-5-cpc-tenants-defence-cannot-be-struck-off-without-examining-if-default-in-rent-deposit-was-wilful-supreme-court-534514)
 - Sun, 17 May 2026 13:05:20 GMT
 
