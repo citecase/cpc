@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Got a Decree in 2012, Still No Possession? Supreme Court Calls It a ‘Comedy of Errors’ and Restores 14-Year-Old Execution in Partition Suit](https://www.scconline.com/blog/post/2026/05/21/sc-decree-can-be-both-preliminary-and-final-under-cpc/)
+- Thu, 21 May 2026 05:30:09 +0000
+
+### [High Court Can't Act As 'Third Court Of Facts' In Second Appeals Under Section 100 CPC: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-fresh-reappreciation-evidence-impermissible-second-appeal-535051)
+- Thu, 21 May 2026 06:00:16 GMT
+
 ### [Jennifer Messias v. Leonard G. Lobo 2026 INSC 502 - CPC - Decree - Partition Act](https://www.caseciter.com/2026insc502/)
 - Mon, 18 May 2026 11:51:58 GMT
 
