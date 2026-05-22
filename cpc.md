@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Mallika v. R. Nallathambi  2026 INSC 529 - CPC - Evidence - Revenue Records](https://www.caseciter.com/2026insc529/)
+- Fri, 22 May 2026 13:39:58 GMT
+
 ### [Got a Decree in 2012, Still No Possession? Supreme Court Calls It a ‘Comedy of Errors’ and Restores 14-Year-Old Execution in Partition Suit](https://www.scconline.com/blog/post/2026/05/21/sc-decree-can-be-both-preliminary-and-final-under-cpc/)
 - Thu, 21 May 2026 05:30:09 +0000
 
