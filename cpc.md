@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order VI Rule17 CPC | Mere Delay In Seeking Amendment Of Pleadings Not Ground To Reject It: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-delay-reject-pleading-amendment-order6rule17-cpc-535408)
+- Sat, 23 May 2026 11:31:02 GMT
+
 ### [Mallika v. R. Nallathambi  2026 INSC 529 - CPC - Evidence - Revenue Records](https://www.caseciter.com/2026insc529/)
 - Fri, 22 May 2026 13:39:58 GMT
 
