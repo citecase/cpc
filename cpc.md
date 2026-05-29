@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [A. Shahul Hameed v. N. Malligarjuna  2026 INSC 573 - CPC - Second Appeal - Specific Performance - Readiness & Willingness](https://www.caseciter.com/2026insc573/)
+- Fri, 29 May 2026 05:17:23 GMT
+
 ### [Order VI Rule17 CPC | Mere Delay In Seeking Amendment Of Pleadings Not Ground To Reject It: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-delay-reject-pleading-amendment-order6rule17-cpc-535408)
 - Sat, 23 May 2026 11:31:02 GMT
 
