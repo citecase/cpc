@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Ashok and Ors. v. Padam Chand   2026 INSC 591 - Order 41 Rule 22 CPC -Arbitration Act 1940](https://www.caseciter.com/2026insc591/)
+- Fri, 29 May 2026 13:58:49 GMT
+
 ### [A. Shahul Hameed v. N. Malligarjuna  2026 INSC 573 - CPC - Second Appeal - Specific Performance - Readiness & Willingness](https://www.caseciter.com/2026insc573/)
 - Fri, 29 May 2026 05:17:23 GMT
 
