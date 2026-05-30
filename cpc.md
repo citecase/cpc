@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [S.17 CPC | Partition Suit For Properties Across Jurisdictions Can Be Filed In Any Court Where A Portion Is Situated: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-partition-suit-property-different-states-536306)
+- Sat, 30 May 2026 17:11:58 GMT
+
+### [O.7 R.3 CPC | Not Mandatory To Include Defendant's Property In Schedule To Suit For Determination Of Boundary: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-suit-fixation-boundary-defendant-property-schedule-536309)
+- Sat, 30 May 2026 15:30:54 GMT
+
 ### [Pushpa  v. Dayawati 2026 INSC 603 - CPC - Judgment On Admission](https://www.caseciter.com/2026insc603/)
 - Sat, 30 May 2026 09:38:34 GMT
 
