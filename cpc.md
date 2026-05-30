@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Pushpa  v. Dayawati 2026 INSC 603 - CPC - Judgment On Admission](https://www.caseciter.com/2026insc603/)
+- Sat, 30 May 2026 09:38:34 GMT
+
 ### [Ashok and Ors. v. Padam Chand   2026 INSC 591 - Order 41 Rule 22 CPC -Arbitration Act 1940](https://www.caseciter.com/2026insc591/)
 - Fri, 29 May 2026 13:58:49 GMT
 
