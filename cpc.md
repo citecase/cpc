@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CPC | Defendant Cannot Retract Pleadings By Filing Additional Written Statement : Supreme Court](https://www.livelaw.in/top-stories/cpc-defendant-cannot-retract-pleadings-by-filing-additional-written-statement-supreme-court-536412)
+- Mon, 01 Jun 2026 08:04:34 GMT
+
 ### [S.17 CPC | Partition Suit For Properties Across Jurisdictions Can Be Filed In Any Court Where A Portion Is Situated: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-partition-suit-property-different-states-536306)
 - Sat, 30 May 2026 17:11:58 GMT
 
