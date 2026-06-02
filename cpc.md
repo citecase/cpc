@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Civil Courts can order police assistance to implement ad interim injunction under S. 151 CPC: Himachal Pradesh HC](https://www.scconline.com/blog/post/2026/06/02/police-assistance-to-implement-ad-interim-injunction-permissible-under-s-151-cpc-hp-hc/)
+- Tue, 02 Jun 2026 05:00:27 +0000
+
 ### [CPC | Defendant Cannot Retract Pleadings By Filing Additional Written Statement : Supreme Court](https://www.livelaw.in/top-stories/cpc-defendant-cannot-retract-pleadings-by-filing-additional-written-statement-supreme-court-536412)
 - Mon, 01 Jun 2026 08:04:34 GMT
 
