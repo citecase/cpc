@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Section 22 CPC | Mandatory To Issue Prior Notice To Opposite Party In Plea Seeking Transfer Of Suit To Different Court: MP High Court](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-section-22-cpc-transfer-of-suit-to-different-court-issuance-of-notice-mandatory-536679)
+- Wed, 03 Jun 2026 09:31:06 GMT
+
 ### [Civil Courts can order police assistance to implement ad interim injunction under S. 151 CPC: Himachal Pradesh HC](https://www.scconline.com/blog/post/2026/06/02/police-assistance-to-implement-ad-interim-injunction-permissible-under-s-151-cpc-hp-hc/)
 - Tue, 02 Jun 2026 05:00:27 +0000
 
