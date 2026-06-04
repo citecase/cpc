@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Delhi HC: Contempt Notice Order Not Appealable Under Order 43 Rule 1(r) CPC; 105 Days’ Delay Not Condoned](https://www.scconline.com/blog/post/2026/06/04/dhc-appeal-against-contempt-notice-not-maintainable-105-days-delay-not-condoned/)
+- Thu, 04 Jun 2026 10:00:26 +0000
+
+### [Hansa Jain vs Vinod Kumar Sanghai (D) - CPC - Ex Parte Decree](https://www.caseciter.com/hansa-jain-vs-vinod-kumar-sanghai-d-cpc-ex-parte-decree/)
+- Thu, 04 Jun 2026 08:11:28 GMT
+
 ### [Mere Mention Of Word 'Dead' In Small Font Against Party's Name Doesn't Satisfy Duty To Inform Under Order 22 Rule 10-A CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-mentioning-word-dead-against-name-without-date-not-compliance-with-duty-to-inform-court-under-order-xxii-rule-10-a-cpc-536687)
 - Wed, 03 Jun 2026 14:30:26 GMT
 
