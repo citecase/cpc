@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [S. Duraimanickam vs D. Ilavarasi  -CPC-  Interim Relief In First Appeal](https://www.caseciter.com/s-duraimanickam-vs-d-ilavarasi-ors-2026-insc-xxx/)
+- Thu, 04 Jun 2026 12:55:34 GMT
+
 ### [Delhi HC: Contempt Notice Order Not Appealable Under Order 43 Rule 1(r) CPC; 105 Days’ Delay Not Condoned](https://www.scconline.com/blog/post/2026/06/04/dhc-appeal-against-contempt-notice-not-maintainable-105-days-delay-not-condoned/)
 - Thu, 04 Jun 2026 10:00:26 +0000
 
