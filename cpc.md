@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CPC Cannot Override RP Act In Election Petitions; Only Parties Specified Under Section 82 Can Be Impleaded: J&&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-provisions-of-cpc-contrary-to-section-82-of-representation-of-people-act-cannot-be-invoked-to-implead-parties-to-election-petition-536947)
+- Fri, 05 Jun 2026 15:10:59 GMT
+
 ### [S. Duraimanickam vs D. Ilavarasi  -CPC-  Interim Relief In First Appeal](https://www.caseciter.com/s-duraimanickam-vs-d-ilavarasi-ors-2026-insc-xxx/)
 - Thu, 04 Jun 2026 12:55:34 GMT
 
