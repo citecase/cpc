@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [O XII R 6 CPC | No Decree On Admissions Unless Defendant's Pleadings Contain Unequivocal Admissions; J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-no-decree-on-admissions-unless-defendants-pleadings-contain-clear-unequivocal-admissions-court-sets-aside-trial-court-decree-537352)
+- Wed, 10 Jun 2026 14:29:15 GMT
+
 ### [Order XIII Rule 9 CPC| Read why Karnataka High Court rejected plea seeking return of document](https://www.scconline.com/blog/post/2026/06/10/kar-hc-rejected-plea-seeking-return-of-document/)
 - Wed, 10 Jun 2026 09:30:16 +0000
 
