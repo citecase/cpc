@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order XIII Rule 9 CPC| Read why Karnataka High Court rejected plea seeking return of document](https://www.scconline.com/blog/post/2026/06/10/kar-hc-rejected-plea-seeking-return-of-document/)
+- Wed, 10 Jun 2026 09:30:16 +0000
+
+### [Order XII Rule 6 CPC | Suit Can Be Decreed On Admission Only If It's Clear, Unequivocal And Unconditional: Supreme Court](https://www.livelaw.in/supreme-court/order-xii-rule-6-cpc-suit-cant-be-decreed-on-admission-only-if-its-clear-unequivocal-and-unconditional-supreme-court-537330)
+- Wed, 10 Jun 2026 05:44:04 GMT
+
 ### [CPC Cannot Override RP Act In Election Petitions; Only Parties Specified Under Section 82 Can Be Impleaded: J&&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-provisions-of-cpc-contrary-to-section-82-of-representation-of-people-act-cannot-be-invoked-to-implead-parties-to-election-petition-536947)
 - Fri, 05 Jun 2026 15:10:59 GMT
 
