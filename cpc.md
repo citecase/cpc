@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Beyond Section 9: The Unexplored Remedy of Section 47, Civil Procedure Code for the Losing Party in Arbitration](https://www.scconline.com/blog/post/2026/06/11/section-47-cpc-arbitration-remedy-losing-party-section-9/)
+- Thu, 11 Jun 2026 09:00:29 +0000
+
 ### [O XII R 6 CPC | No Decree On Admissions Unless Defendant's Pleadings Contain Unequivocal Admissions; J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-no-decree-on-admissions-unless-defendants-pleadings-contain-clear-unequivocal-admissions-court-sets-aside-trial-court-decree-537352)
 - Wed, 10 Jun 2026 14:29:15 GMT
 
