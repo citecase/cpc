@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Second Application Under Order 7 Rule 11 CPC Maintainable If Filed on Ground Different from First; Can Be Filed Even at Appellate Stage: Rajasthan HC](https://www.scconline.com/blog/post/2026/06/11/rajasthan-hc-holds-second-application-under-order-7-rule-11-cpc-maintainable/)
+- Thu, 11 Jun 2026 11:00:34 +0000
+
+### [Makardhwaj Ram vs Jagdish Rai (D) 2026 INSC 636 - CPC - Constructive Res Judicata](https://www.caseciter.com/2026insc636/)
+- Thu, 11 Jun 2026 10:49:46 GMT
+
 ### [Beyond Section 9: The Unexplored Remedy of Section 47, Civil Procedure Code for the Losing Party in Arbitration](https://www.scconline.com/blog/post/2026/06/11/section-47-cpc-arbitration-remedy-losing-party-section-9/)
 - Thu, 11 Jun 2026 09:00:29 +0000
 
