@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Kavitha vs Dhanalakshmi - Order 21 Rule 97 CPC - Summary Rejection](https://www.caseciter.com/kavitha-vs-dhanalakshmi-order-21-rule-97-cpc-summary-rejection/)
+- Fri, 12 Jun 2026 09:41:05 GMT
+
 ### [Second Application Under Order 7 Rule 11 CPC Maintainable If Filed on Ground Different from First; Can Be Filed Even at Appellate Stage: Rajasthan HC](https://www.scconline.com/blog/post/2026/06/11/rajasthan-hc-holds-second-application-under-order-7-rule-11-cpc-maintainable/)
 - Thu, 11 Jun 2026 11:00:34 +0000
 
