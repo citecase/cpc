@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Confirmation Of Accounts Signed By Debtor Sufficient To Sustain Summary Suit Under Order 37 CPC: Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/confirmation-of-accounts-signed-by-debtor-sufficient-to-sustain-summary-suit-under-order-37-cpc-delhi-high-court-538003)
+- Wed, 17 Jun 2026 15:55:42 GMT
+
 ### [LiveLaw Explainer | What Are Principles On Admissions Under Order XII Rule 6 CPC](https://www.livelaw.in/top-stories/livelaw-explains-what-are-principles-on-admissions-under-order-xii-rule-6-cpc-538024)
 - Wed, 17 Jun 2026 07:51:06 GMT
 
