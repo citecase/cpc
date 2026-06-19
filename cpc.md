@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Rajat Kumar vs S D Adarsh Jain Kanya Maha Vidyalaya Sadhaura  2026 INSC 648 CPC - Second Appeal - Substantial Question Of Law - Execution](https://www.caseciter.com/2026insc648/)
+- Fri, 19 Jun 2026 09:21:17 GMT
+
 ### [Confirmation Of Accounts Signed By Debtor Sufficient To Sustain Summary Suit Under Order 37 CPC: Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/confirmation-of-accounts-signed-by-debtor-sufficient-to-sustain-summary-suit-under-order-37-cpc-delhi-high-court-538003)
 - Wed, 17 Jun 2026 15:55:42 GMT
 
