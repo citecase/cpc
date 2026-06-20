@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Rajiv Gaddh vs Subodh Parkash 2026 INSC 302 - Arbitration Act - Order XXIII Rule 1 CPC](https://www.caseciter.com/2026insc302/)
+- Sat, 20 Jun 2026 07:47:36 GMT
+
 ### [Rajat Kumar vs S D Adarsh Jain Kanya Maha Vidyalaya Sadhaura  2026 INSC 648 CPC - Second Appeal - Substantial Question Of Law - Execution](https://www.caseciter.com/2026insc648/)
 - Fri, 19 Jun 2026 09:21:17 GMT
 
