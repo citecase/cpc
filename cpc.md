@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Election Petition Cannot Be Rejected Under Order VII Rule 11 CPC Merely Because Accompanying Affidavit Is Defective: Uttarakhand HC](https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-election-petition-rejected-orderviirule11-cpc-538637)
+- Mon, 22 Jun 2026 15:27:31 GMT
+
 ### [Rajiv Gaddh vs Subodh Parkash 2026 INSC 302 - Arbitration Act - Order XXIII Rule 1 CPC](https://www.caseciter.com/2026insc302/)
 - Sat, 20 Jun 2026 07:47:36 GMT
 
