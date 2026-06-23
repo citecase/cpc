@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court: High Court Cannot Substitute Mandatory Injunction with Compensation When No Such Relief Is Claimed](https://www.scconline.com/blog/post/2026/06/23/sc-hc-cannot-replace-injunction-with-compensation-absent-pleading-under-section-100-cpc/)
+- Tue, 23 Jun 2026 07:30:25 +0000
+
+### [Plea Of Private Partition Pursuant To Arbitral Award Raises Triable Issue; Plaint Cannot Be Rejected Under Order VII Rule 11 CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-plea-of-private-partition-pursuant-to-arbitral-award-raises-triable-issue-plaint-cannot-be-rejected-under-order-vii-rule-11-cpc-538629)
+- Tue, 23 Jun 2026 06:50:35 GMT
+
 ### [Election Petition Cannot Be Rejected Under Order VII Rule 11 CPC Merely Because Accompanying Affidavit Is Defective: Uttarakhand HC](https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-election-petition-rejected-orderviirule11-cpc-538637)
 - Mon, 22 Jun 2026 15:27:31 GMT
 
