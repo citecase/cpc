@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Plaintiff Not Required To Pay Court Fee Till Permission To Sue As An Indignant Person Under O.33 R.9 CPC Is Withdrawn: Uttarakhand High Court](https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-plaintiff-pay-court-fee-indignant-person-orderxxxiii-rule9-cpc-538963)
+- Thu, 25 Jun 2026 14:35:56 GMT
+
 ### [Supreme Court: High Court Cannot Substitute Mandatory Injunction with Compensation When No Such Relief Is Claimed](https://www.scconline.com/blog/post/2026/06/23/sc-hc-cannot-replace-injunction-with-compensation-absent-pleading-under-section-100-cpc/)
 - Tue, 23 Jun 2026 07:30:25 +0000
 
