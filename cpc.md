@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Justice does not mean “whatever I want and howsoever I put it”: Bombay High Court denies relief to MNLU student with less than 75 per cent attendance](https://www.scconline.com/blog/post/2026/06/30/less-than-75-percent-attendance-bombay-high-court-dismisses-review-petition/)
+- Tue, 30 Jun 2026 09:30:09 +0000
+
 ### [Plaintiff Not Required To Pay Court Fee Till Permission To Sue As An Indignant Person Under O.33 R.9 CPC Is Withdrawn: Uttarakhand High Court](https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-plaintiff-pay-court-fee-indignant-person-orderxxxiii-rule9-cpc-538963)
 - Thu, 25 Jun 2026 14:35:56 GMT
 
