@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Counsel cannot enter into compromise affecting property rights without express authority; Limitation cannot validate illegal compromise decree: Supreme Court](https://www.scconline.com/blog/post/2026/07/02/counsel-cannot-enter-into-compromise-affecting-property-rights-without-express-authority-sc/)
+- Thu, 02 Jul 2026 11:30:31 +0000
+
 ### [Justice does not mean “whatever I want and howsoever I put it”: Bombay High Court denies relief to MNLU student with less than 75 per cent attendance](https://www.scconline.com/blog/post/2026/06/30/less-than-75-percent-attendance-bombay-high-court-dismisses-review-petition/)
 - Tue, 30 Jun 2026 09:30:09 +0000
 
