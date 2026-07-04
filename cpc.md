@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [BSNL/MTNL Employees Absorbed From DoT Not Entitled To 7th CPC Pension Revision: Delhi High Court Sets Aside CAT Order](https://www.livelaw.in/high-court/delhi-high-court/bsnlmtnl-employees-absorbed-from-dot-not-entitled-to-7th-cpc-pension-revision-delhi-high-court-sets-aside-cat-order-539888)
+- Sat, 04 Jul 2026 04:35:47 GMT
+
 ### [Counsel cannot enter into compromise affecting property rights without express authority; Limitation cannot validate illegal compromise decree: Supreme Court](https://www.scconline.com/blog/post/2026/07/02/counsel-cannot-enter-into-compromise-affecting-property-rights-without-express-authority-sc/)
 - Thu, 02 Jul 2026 11:30:31 +0000
 
