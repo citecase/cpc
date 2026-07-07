@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Justice Thakker’s Code of Civil Procedure: The Landmark Commentary Returns in a Fully Updated Edition](https://www.scconline.com/blog/post/2026/07/07/justice-thakker-code-of-civil-procedure-lawyers-edition/)
+- Tue, 07 Jul 2026 08:30:46 +0000
+
+### [Revisiting Section 56 CPC: Does Article 15(3) Still Justify Civil Arrest Immunity For Women?](https://www.livelaw.in/articles/revisiting-section56-cpc-justify-civil-arrest-immunity-women-540131)
+- Tue, 07 Jul 2026 09:30:24 GMT
+
 ### [BSNL/MTNL Employees Absorbed From DoT Not Entitled To 7th CPC Pension Revision: Delhi High Court Sets Aside CAT Order](https://www.livelaw.in/high-court/delhi-high-court/bsnlmtnl-employees-absorbed-from-dot-not-entitled-to-7th-cpc-pension-revision-delhi-high-court-sets-aside-cat-order-539888)
 - Sat, 04 Jul 2026 04:35:47 GMT
 
