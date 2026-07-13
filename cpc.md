@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [120 Days Mandatory Time Frame Under Order VIII Rule 1 CPC Also Applies To Filing Of Written Statement To Counter-Claim In Commercial Suits: SC](https://www.caseciter.com/120-days-mandatory-time-frame-under-order-viii-rule-1-cpc-also-applies-to-filing-of-written-statement-to-counter-claim-in-commercial-suits-sc/)
+- Mon, 13 Jul 2026 11:29:49 GMT
+
 ### [Appellate Court Can Enhance Interest Rate On Award Under Order 41 Rule 33 CPC Even Without Cross-Objection By Plaintiff: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-appellate-court-interest-rate-order41rule33-cpc-cross-objection-plaintiff-540694)
 - Fri, 10 Jul 2026 12:25:38 GMT
 
