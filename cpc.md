@@ -1,5 +1,17 @@
 # CPC & Civil Procedure Updates
 
+### [Does Section 68 Evidence Act Apply To Registered Sale Deed?](https://www.caseciter.com/section-68-evidence-act-does-not-apply-to-registered-sale-deed-sc/)
+- Tue, 14 Jul 2026 12:10:07 GMT
+
+### [Can Co-Owner Sell His Undivided Share In Immovable Property?](https://www.caseciter.com/can-co-owner-sell-his-undivided-share-in-immovable-property/)
+- Wed, 15 Jul 2026 05:23:07 GMT
+
+### [Mere Naming Of Amount Which May Sound In Damages Sufficient To Defeat A Specific Performance Claim? Can A Party In Breach Resist Specific Performance  Saying That Agreement Contains No Express Stipulation For That Relief?](https://www.caseciter.com/mere-naming-of-amount-which-may-sound-in-damages-sufficient-to-defeat-a-specific-performance-claim-can-a-party-in-breach-resist-specific-performance-saying-that-agreement-contains-no-ex/)
+- Wed, 15 Jul 2026 05:56:30 GMT
+
+### [When Can High Court Interfere With Findings Of Fact In Second Appeal?](https://www.caseciter.com/when-c/)
+- Wed, 15 Jul 2026 06:02:59 GMT
+
 ### [120 Days Mandatory Time Frame Under Order VIII Rule 1 CPC Also Applies To Filing Of Written Statement To Counter-Claim In Commercial Suits: SC](https://www.caseciter.com/120-days-mandatory-time-frame-under-order-viii-rule-1-cpc-also-applies-to-filing-of-written-statement-to-counter-claim-in-commercial-suits-sc/)
 - Mon, 13 Jul 2026 11:29:49 GMT
 
