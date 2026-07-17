@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court Judgments On Commercial Courts Act [2026]](https://www.caseciter.com/supreme-court-judgments-on-commercial-courts-act-2026/)
+- Fri, 17 Jul 2026 06:34:56 GMT
+
+### [11 Supreme Court Judgments On Code Of Civil Procedure [June-July 2026]](https://www.caseciter.com/11-supreme-court-judgments-on-code-of-civil-procedure-june-july-2026/)
+- Fri, 17 Jul 2026 08:14:52 GMT
+
 ### [Does Section 68 Evidence Act Apply To Registered Sale Deed?](https://www.caseciter.com/section-68-evidence-act-does-not-apply-to-registered-sale-deed-sc/)
 - Tue, 14 Jul 2026 12:10:07 GMT
 
