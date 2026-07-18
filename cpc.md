@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Read why Karnataka High Court refused to entertain Article 227 plea against ex parte injunction order](https://www.scconline.com/blog/post/2026/07/18/kar-hc-article-227-writ-non-maintainable-cpc-statutory-remedy-exists/)
+- Sat, 18 Jul 2026 10:30:00 +0000
+
 ### [S.47 CPC | Executing Court Can Correct Clerical Misdescription Of Suit Property In Decree: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/executing-court-correct-clerical-misdescription-suit-property-decree-541799)
 - Sat, 18 Jul 2026 06:33:13 GMT
 
