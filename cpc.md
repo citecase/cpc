@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [S.47 CPC | Executing Court Can Correct Clerical Misdescription Of Suit Property In Decree: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/executing-court-correct-clerical-misdescription-suit-property-decree-541799)
+- Sat, 18 Jul 2026 06:33:13 GMT
+
 ### [Supreme Court Judgments On Commercial Courts Act [2026]](https://www.caseciter.com/supreme-court-judgments-on-commercial-courts-act-2026/)
 - Fri, 17 Jul 2026 06:34:56 GMT
 
