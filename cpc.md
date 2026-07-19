@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [7 Questions Of Law From Latest Supreme Court Judgments  [CPC]](https://www.caseciter.com/7-questions-of-law-from-latest-supreme-court-judgments-cpc/)
+- Sun, 19 Jul 2026 04:30:07 GMT
+
 ### [Read why Karnataka High Court refused to entertain Article 227 plea against ex parte injunction order](https://www.scconline.com/blog/post/2026/07/18/kar-hc-article-227-writ-non-maintainable-cpc-statutory-remedy-exists/)
 - Sat, 18 Jul 2026 10:30:00 +0000
 
