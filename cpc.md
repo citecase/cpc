@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Court Must Identify Specific Retirement Benefit Before Ordering Attachment Under S.60 CPC; Gratuity, PF Can't Be Attached: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-executing-court-identify-retirement-benefit-ordering-attachment-section60-cpc-542268)
+- Wed, 22 Jul 2026 05:26:59 GMT
+
+### [S. 115 CPC | Revisional Jurisdiction Cannot Be Used to Correct Factual Errors, Even If Facts Are Allegedly Concealed : Supreme Court](https://www.livelaw.in/supreme-court/s-115-cpc-revisional-jurisdiction-cannot-be-used-to-correct-factual-errors-even-if-facts-are-allegedly-concealed-supreme-court-542315)
+- Wed, 22 Jul 2026 05:23:58 GMT
+
 ### [7 Questions Of Law From Latest Supreme Court Judgments  [CPC]](https://www.caseciter.com/7-questions-of-law-from-latest-supreme-court-judgments-cpc/)
 - Sun, 19 Jul 2026 04:30:07 GMT
 
