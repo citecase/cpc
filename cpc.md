@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court Asks Union, CPCB To Explain Utilisation Of 'Environment Relief Fund'](https://www.livelaw.in/top-stories/supreme-court-asks-union-cpcb-to-explain-utilisation-of-environment-relief-fund-542460)
+- Thu, 23 Jul 2026 03:06:06 GMT
+
 ### [Court Must Identify Specific Retirement Benefit Before Ordering Attachment Under S.60 CPC; Gratuity, PF Can't Be Attached: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-executing-court-identify-retirement-benefit-ordering-attachment-section60-cpc-542268)
 - Wed, 22 Jul 2026 05:26:59 GMT
 
