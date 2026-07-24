@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order Issuing Notice On Temporary Injunction Plea Not Appealable Under Order 43 Rule 1(r) CPC: Karnataka High Court](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-holds-issuance-notice-injunction-application-appealable-542796)
+- Fri, 24 Jul 2026 13:33:26 GMT
+
 ### [Supreme Court Asks Union, CPCB To Explain Utilisation Of 'Environment Relief Fund'](https://www.livelaw.in/top-stories/supreme-court-asks-union-cpcb-to-explain-utilisation-of-environment-relief-fund-542460)
 - Thu, 23 Jul 2026 03:06:06 GMT
 
