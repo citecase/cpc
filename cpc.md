@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [O.7 R.11 CPC | Plaint Can Only Be Rejected Based On Its Own Averments, Defendant's Stand Immaterial: Andhra Pradesh High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-plaint-rejected-averments-defence-considered-orderviirule11cpc-542905)
+- Sun, 26 Jul 2026 11:55:44 GMT
+
 ### [Order Issuing Notice On Temporary Injunction Plea Not Appealable Under Order 43 Rule 1(r) CPC: Karnataka High Court](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-holds-issuance-notice-injunction-application-appealable-542796)
 - Fri, 24 Jul 2026 13:33:26 GMT
 
