@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### ['Why Change Stance?' Bombay High Court Pulls Up CPCB For Calling Its Own PoP Idol Immersion Guidelines Advisory](https://www.livelaw.in/high-court/bombay-high-court/pop-idol-immersion-ban-natural-water-cpcb-guidelines-advisory-543112)
+- Tue, 28 Jul 2026 03:45:44 GMT
+
 ### [O.7 R.11 CPC | Plaint Can Only Be Rejected Based On Its Own Averments, Defendant's Stand Immaterial: Andhra Pradesh High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-plaint-rejected-averments-defence-considered-orderviirule11cpc-542905)
 - Sun, 26 Jul 2026 11:55:44 GMT
 
