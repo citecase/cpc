@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [What Is Difference Between Order 1 Rule 10 CPC & Order 22 Rule 10 CPC?](https://www.caseciter.com/what-is-difference-between-order-1-rule-10-cpc-order-22-rule-10-cpc/)
+- Tue, 28 Jul 2026 10:17:59 GMT
+
+### [Res Judicata Applies To Successive Impleadment Applications Under Different CPC Provisions: Supreme Court](https://www.livelaw.in/supreme-court/res-judicata-applies-to-successive-impleadment-applications-under-different-cpc-provisions-supreme-court-543181)
+- Tue, 28 Jul 2026 08:53:02 GMT
+
 ### ['Why Change Stance?' Bombay High Court Pulls Up CPCB For Calling Its Own PoP Idol Immersion Guidelines Advisory](https://www.livelaw.in/high-court/bombay-high-court/pop-idol-immersion-ban-natural-water-cpcb-guidelines-advisory-543112)
 - Tue, 28 Jul 2026 03:45:44 GMT
 
