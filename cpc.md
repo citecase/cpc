@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [O VII  7 CPC | Lesser Relief Can Be Decreed, But Not Totally Different Claim : Supreme Court Declines To Allow Partition In Title Suit](https://www.livelaw.in/supreme-court/o-vii-7-cpc-lesser-relief-can-be-decreed-but-not-totally-different-claim-supreme-court-declines-to-allow-partition-in-title-suit-543427)
+- Wed, 29 Jul 2026 12:13:09 GMT
+
+### [Return Of Plaint Not Sole Remedy Where Court Lacks Pecuniary Jurisdiction; Suit Can Be Transferred U/S 24(5) CPC: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-transfer-suit-court-lacking-pecuniary-jurisdiction-543369)
+- Wed, 29 Jul 2026 12:30:55 GMT
+
 ### [What Is Difference Between Order 1 Rule 10 CPC & Order 22 Rule 10 CPC?](https://www.caseciter.com/what-is-difference-between-order-1-rule-10-cpc-order-22-rule-10-cpc/)
 - Tue, 28 Jul 2026 10:17:59 GMT
 
