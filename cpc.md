@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Appeal Abates If Deceased Appellant's Legal Heirs Are Not Substituted; Order 41 Rule 4 CPC Inapplicable: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/cpc-order-41-rule-4-cannot-save-appeal-from-abatement-after-death-of-co-appellant-legal-representatives-must-be-brought-on-record-under-order-22-jk-hc-543446)
+- Thu, 30 Jul 2026 07:30:13 GMT
+
 ### [O VII  7 CPC | Lesser Relief Can Be Decreed, But Not Totally Different Claim : Supreme Court Declines To Allow Partition In Title Suit](https://www.livelaw.in/supreme-court/o-vii-7-cpc-lesser-relief-can-be-decreed-but-not-totally-different-claim-supreme-court-declines-to-allow-partition-in-title-suit-543427)
 - Wed, 29 Jul 2026 12:13:09 GMT
 
