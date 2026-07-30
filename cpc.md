@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [S.152 CPC | Court Can Direct Correction Of Wrong Survey Number In Decree If Identity Of Property Is Undisputed: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-wrong-survey-number-decree-identity-property-undisputed-543589)
+- Thu, 30 Jul 2026 10:46:10 GMT
+
 ### [Appeal Abates If Deceased Appellant's Legal Heirs Are Not Substituted; Order 41 Rule 4 CPC Inapplicable: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/cpc-order-41-rule-4-cannot-save-appeal-from-abatement-after-death-of-co-appellant-legal-representatives-must-be-brought-on-record-under-order-22-jk-hc-543446)
 - Thu, 30 Jul 2026 07:30:13 GMT
 
