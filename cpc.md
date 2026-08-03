@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [2026 SCC Vol. 6 Part 2: Key Supreme Court Cases on Constitution, CPC, Human and Civil Rights, Specific Relief, & more](https://www.scconline.com/blog/post/2026/08/03/2026-scc-vol-6-part-2-latest-supreme-court-cases/)
+- Mon, 03 Aug 2026 04:30:43 +0000
+
 ### [S.152 CPC | Court Can Direct Correction Of Wrong Survey Number In Decree If Identity Of Property Is Undisputed: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-wrong-survey-number-decree-identity-property-undisputed-543589)
 - Thu, 30 Jul 2026 10:46:10 GMT
 
