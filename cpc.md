@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Is Partial Relaxation For Certain Crackers Possible Regarding Noise Levels? Supreme Court Asks CPCB](https://www.livelaw.in/top-stories/is-partial-relaxation-for-certain-crackers-possible-regarding-noise-levels-supreme-court-asks-cpcb-544431)
+- Wed, 05 Aug 2026 09:41:27 GMT
+
+### [Order 18 Rule 17 CPC | Parameters On Recall Of Witness : Supreme Court Explains](https://www.livelaw.in/supreme-court/order-18-rule-17-cpc-parameters-on-recall-of-witness-supreme-court-explains-544436)
+- Wed, 05 Aug 2026 09:47:57 GMT
+
 ### [2026 SCC Vol. 6 Part 2: Key Supreme Court Cases on Constitution, CPC, Human and Civil Rights, Specific Relief, & more](https://www.scconline.com/blog/post/2026/08/03/2026-scc-vol-6-part-2-latest-supreme-court-cases/)
 - Mon, 03 Aug 2026 04:30:43 +0000
 
