@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order 41 Rule 27 CPC | Supreme Court Explains Parameters To Decide Application For Additional Evidence](https://www.livelaw.in/supreme-court/order-41-rule-27-cpc-parameters-to-decide-application-for-additional-evidence-supreme-court-explains-545262)
+- Tue, 11 Aug 2026 08:40:47 GMT
+
+### [Order VII Rule 11 CPC Not Available In UP Tenancy Act Proceedings; Objections Must Be Raised In Reply: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-orderviirule11-cpc-termination-of-proceedings-545286)
+- Tue, 11 Aug 2026 11:05:13 GMT
+
 ### [Is Partial Relaxation For Certain Crackers Possible Regarding Noise Levels? Supreme Court Asks CPCB](https://www.livelaw.in/top-stories/is-partial-relaxation-for-certain-crackers-possible-regarding-noise-levels-supreme-court-asks-cpcb-544431)
 - Wed, 05 Aug 2026 09:41:27 GMT
 
