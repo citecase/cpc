@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CPC | Separate Appeals Not Required Against Common Judgment Deciding Suit & Counterclaim : Supreme Court](https://www.livelaw.in/supreme-court/cpc-separate-appeals-not-required-against-common-judgment-deciding-suit-counterclaim-supreme-court-545472)
+- Wed, 12 Aug 2026 09:40:20 GMT
+
 ### [Order 41 Rule 27 CPC | Supreme Court Explains Parameters To Decide Application For Additional Evidence](https://www.livelaw.in/supreme-court/order-41-rule-27-cpc-parameters-to-decide-application-for-additional-evidence-supreme-court-explains-545262)
 - Tue, 11 Aug 2026 08:40:47 GMT
 
