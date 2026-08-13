@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### ['Challenge To Decree As Nullity Due To Abatement Must Be Raised Before Executing Court U/S 47 CPC, Not By Separate Suit': Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/challenge-decree-nullity-ground-abatement-executing-court-545528)
+- Thu, 13 Aug 2026 06:01:00 GMT
+
 ### [CPC | Separate Appeals Not Required Against Common Judgment Deciding Suit & Counterclaim : Supreme Court](https://www.livelaw.in/supreme-court/cpc-separate-appeals-not-required-against-common-judgment-deciding-suit-counterclaim-supreme-court-545472)
 - Wed, 12 Aug 2026 09:40:20 GMT
 
