@@ -1,5 +1,14 @@
 # CPC & Civil Procedure Updates
 
+### [Appeal cannot follow once consent is given: HP High Court reiterates bar under S. 96(3) CPC on appealing consent decrees](https://www.scconline.com/blog/post/2026/08/18/hp-hc-appeal-against-consent-decree-barred-under-section-96-3-cpc/)
+- Tue, 18 Aug 2026 10:00:31 +0000
+
+### [LiveLaw Supreme Court Half Yearly Digest 2026 - Code Of Civil Procedure, 1908 (CPC)](https://www.livelaw.in/supreme-court/supreme-court-orders-and-judgments-half-yearly-digest-code-of-civil-procedure-546237)
+- Tue, 18 Aug 2026 07:35:57 GMT
+
+### [Section 47 CPC | Execution Proceedings Cannot Reopen Issues That Could Have Been Raised At Trial: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-section-47-cpc-execution-proceedings-cant-reopen-issues-trial-546255)
+- Tue, 18 Aug 2026 09:00:36 GMT
+
 ### [CPC | Residential Property Exemption u/s 60(1)(ccc) Is Personal To Judgment-Debtor; LR Can't Claim : Supreme Court](https://www.livelaw.in/supreme-court/cpc-residential-property-exemption-us-601ccc-is-personal-to-judgment-debtor-lr-cant-claim-supreme-court-545998)
 - Sun, 16 Aug 2026 03:54:39 GMT
 
