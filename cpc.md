@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Appeal Against Reference Court Decree Under Land Acquisition Act Does Not Lie Under Section 96 CPC: AP High Court](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-appeal-reference-court-decree-land-acquisition-act-546716)
+- Fri, 21 Aug 2026 04:05:46 GMT
+
 ### [Appeal cannot follow once consent is given: HP High Court reiterates bar under S. 96(3) CPC on appealing consent decrees](https://www.scconline.com/blog/post/2026/08/18/hp-hc-appeal-against-consent-decree-barred-under-section-96-3-cpc/)
 - Tue, 18 Aug 2026 10:00:31 +0000
 
