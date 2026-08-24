@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Legal Heir Not Made Party Can Seek Setting Aside Of Ex-Parte Succession Certificate Under Order IX Rule 13 CPC: Gauhati High Court](https://www.livelaw.in/high-court/gauhati-high-court/order-ix-rule-13-cpc-succession-certificate-ex-parte-without-impleading-legal-heir-547073)
+- Mon, 24 Aug 2026 10:47:08 GMT
+
+### [Court-Framed Scheme To Manage Temple Trust U/S 92 CPC Prima Facie Valid Unless Altered By Karnataka Endowments Act: High Court](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-stays-single-judge-order-quashing-shree-malatesh-temple-committee-notification-547157)
+- Mon, 24 Aug 2026 12:30:49 GMT
+
 ### [Order 7 Rule 11 CPC | Plaint Can Be Rejected At Threshold When Limitation Bar Is Obvious From Pleadings : Supreme Court](https://www.livelaw.in/supreme-court/order-7-rule-11-cpc-plaint-can-be-rejected-at-threshold-when-limitation-bar-is-obvious-from-pleadings-supreme-court-547001)
 - Sun, 23 Aug 2026 10:15:40 GMT
 
