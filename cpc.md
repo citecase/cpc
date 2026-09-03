@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Transmission is not the same as receipt: Delhi High Court on due service of summons via WhatsApp](https://www.scconline.com/blog/post/2026/09/03/del-hc-whatsapp-service-of-summons-not-conclusive-proof-of-actual-notice/)
+- Thu, 03 Sep 2026 11:00:24 +0000
+
 ### [Legal Heir Not Made Party Can Seek Setting Aside Of Ex-Parte Succession Certificate Under Order IX Rule 13 CPC: Gauhati High Court](https://www.livelaw.in/high-court/gauhati-high-court/order-ix-rule-13-cpc-succession-certificate-ex-parte-without-impleading-legal-heir-547073)
 - Mon, 24 Aug 2026 10:47:08 GMT
 
