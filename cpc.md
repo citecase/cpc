@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order Refusing Recusal Of Judge Is Interlocutory, Not Revisable Under Section 115 CPC: Sikkim High Court](https://www.livelaw.in/high-court/sikkim-high-court/sikkim-high-court-refusal-recuse-interlocutory-revisable-section115-cpc-549187)
+- Tue, 08 Sep 2026 14:05:28 GMT
+
 ### [Transmission is not the same as receipt: Delhi High Court on due service of summons via WhatsApp](https://www.scconline.com/blog/post/2026/09/03/del-hc-whatsapp-service-of-summons-not-conclusive-proof-of-actual-notice/)
 - Thu, 03 Sep 2026 11:00:24 +0000
 
