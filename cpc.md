@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Assignee Under Deed Executed Prior To Filing Of Suit Cannot Be Impleaded As Co-Plaintiff Under Order I Rule 10 CPC: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/assignee-under-deed-prior-filing-suit-cannot-impleaded-co-plaintiff-549191)
+- Wed, 09 Sep 2026 12:54:54 GMT
+
 ### [Order 39 CPC | Bar On Grant Of Final Relief At Interim Stage Is Not An Absolute Proposition Of Law: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-orderxxxix-cpc-grant-final-relief-interim-stage-549293)
 - Wed, 09 Sep 2026 06:25:28 GMT
 
