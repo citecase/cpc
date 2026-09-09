@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order 39 CPC | Bar On Grant Of Final Relief At Interim Stage Is Not An Absolute Proposition Of Law: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-orderxxxix-cpc-grant-final-relief-interim-stage-549293)
+- Wed, 09 Sep 2026 06:25:28 GMT
+
+### [Order XXI CPC Not Applicable To Execution Of Eviction Orders Passed Under Section 67 UP Revenue Code: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-orderxxi-cpc-applicable-execution-of-eviction-up-revenue-code-549299)
+- Wed, 09 Sep 2026 07:00:39 GMT
+
 ### [Order Refusing Recusal Of Judge Is Interlocutory, Not Revisable Under Section 115 CPC: Sikkim High Court](https://www.livelaw.in/high-court/sikkim-high-court/sikkim-high-court-refusal-recuse-interlocutory-revisable-section115-cpc-549187)
 - Tue, 08 Sep 2026 14:05:28 GMT
 
