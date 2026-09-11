@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Defence In Written Statement Can't Be Converted Into Ground For Rejection Of Plaint Under Order 7 Rule 11 CPC: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-defence-written-statement-converted-ground-rejection-of-plaint-549666)
+- Fri, 11 Sep 2026 05:47:42 GMT
+
+### [Order 9 Rule 13 CPC | Limitation Must Be Decided Before Setting Aside Ex Parte Decree, Failure A Jurisdictional Error: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-orderix-rule13-cpc-court-decide-limitation-setting-aside-ex-parte-decree-549679)
+- Fri, 11 Sep 2026 05:47:31 GMT
+
 ### [Assignee Under Deed Executed Prior To Filing Of Suit Cannot Be Impleaded As Co-Plaintiff Under Order I Rule 10 CPC: Bombay High Court](https://www.livelaw.in/high-court/bombay-high-court/assignee-under-deed-prior-filing-suit-cannot-impleaded-co-plaintiff-549191)
 - Wed, 09 Sep 2026 12:54:54 GMT
 
