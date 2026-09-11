@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Suit Not Maintainable To Recover Money Paid For Illegal Purpose, Must Be Rejected Under O VII R 11 CPC : Supreme Court](https://www.livelaw.in/top-stories/supreme-court-suit-recovery-money-paid-illegal-purpose-maintainable-ordervii-rule11-cpc-549790)
+- Fri, 11 Sep 2026 15:34:50 GMT
+
 ### [Defence In Written Statement Can't Be Converted Into Ground For Rejection Of Plaint Under Order 7 Rule 11 CPC: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-defence-written-statement-converted-ground-rejection-of-plaint-549666)
 - Fri, 11 Sep 2026 05:47:42 GMT
 
