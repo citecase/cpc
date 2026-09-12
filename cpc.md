@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Latest (25+) Supreme Court Judgments On Code Of Civil Procedure](https://www.caseciter.com/latest-25-supreme-court-judgments-on-code-of-civil-procedure/)
+- Sat, 12 Sep 2026 08:51:54 GMT
+
+### [Order XI CPC Discovery Can't Be Used To Collect Evidence Available In Public Domain, Law Doesn't Aid Indolent: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/order-xi-cpc-discovery-cant-collect-evidence-in-public-domain-549805)
+- Sat, 12 Sep 2026 05:30:24 GMT
+
 ### [Suit Not Maintainable To Recover Money Paid For Illegal Purpose, Must Be Rejected Under O VII R 11 CPC : Supreme Court](https://www.livelaw.in/top-stories/supreme-court-suit-recovery-money-paid-illegal-purpose-maintainable-ordervii-rule11-cpc-549790)
 - Fri, 11 Sep 2026 15:34:50 GMT
 
