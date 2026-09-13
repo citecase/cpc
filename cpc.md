@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Article 227 Petition Maintainable Against Small Causes Court's Refusal To Stay Suit Under Section 10 CPC: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-rejection-stay-application-small-cause-court-549885)
+- Sun, 13 Sep 2026 08:31:17 GMT
+
 ### [Latest (25+) Supreme Court Judgments On Code Of Civil Procedure](https://www.caseciter.com/latest-25-supreme-court-judgments-on-code-of-civil-procedure/)
 - Sat, 12 Sep 2026 08:51:54 GMT
 
