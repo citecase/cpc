@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Plaint Raising Triable Question About Nature Of Financial Transaction Cannot Be Rejected At Threshold Under Order VII Rule 11 CPC: Calcutta High Court](https://www.verdictum.in/calcutta-high-court/divij-mercantiles-private-limited-v-ashoka-hawai-and-shoes-pvt-ltd-1621926)
+- Mon, 14 Sep 2026 06:36:10 GMT
+
+### [Weekly Overview| Supreme Court Judgments: September 07– September 11, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-september-07-september-11-2026-1621946)
+- Mon, 14 Sep 2026 13:30:07 GMT
+
 ### [Article 227 Petition Maintainable Against Small Causes Court's Refusal To Stay Suit Under Section 10 CPC: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-rejection-stay-application-small-cause-court-549885)
 - Sun, 13 Sep 2026 08:31:17 GMT
 
