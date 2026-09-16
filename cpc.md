@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Virtually Impossible To Comply With Mandate Of Order VI Rule 14A CPC In John Doe Cases; Courts Must Adopt Progressive Approach: Kerala High Court](https://www.verdictum.in/kerala-high-court/cubes-entertainments-v-big-tree-entertainment-2026ker69867-order-vi-rule-14a-cpc-john-doe-1622089)
+- Wed, 16 Sep 2026 14:30:06 GMT
+
 ### [Requirement Of Prior Permission Can’t Be Invoked To Suspend Execution Of Eviction Decree Merely Due To Subsequent Declaration Of Property As Slum Area: Bombay High Court](https://www.verdictum.in/bombay-high-court/sachin-v-miss-flymi-sadanandan-prior-permission-eviction-slum-area-1622057)
 - Wed, 16 Sep 2026 06:34:35 GMT
 
