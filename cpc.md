@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Requirement Of Prior Permission Can’t Be Invoked To Suspend Execution Of Eviction Decree Merely Due To Subsequent Declaration Of Property As Slum Area: Bombay High Court](https://www.verdictum.in/bombay-high-court/sachin-v-miss-flymi-sadanandan-prior-permission-eviction-slum-area-1622057)
+- Wed, 16 Sep 2026 06:34:35 GMT
+
+### [Apex Court Asks Gujarat HC To Register Suo Motu Case To Identify Victims Of 2022 Industrial Accident At Pesticide Plant](https://www.verdictum.in/supreme-court/gujarat-hc-to-register-suo-motu-case-to-identify-victims-of-2022-industrial-accident-at-pesticide-plant-1622064)
+- Wed, 16 Sep 2026 08:00:07 GMT
+
 ### [Plaint Raising Triable Question About Nature Of Financial Transaction Cannot Be Rejected At Threshold Under Order VII Rule 11 CPC: Calcutta High Court](https://www.verdictum.in/calcutta-high-court/divij-mercantiles-private-limited-v-ashoka-hawai-and-shoes-pvt-ltd-1621926)
 - Mon, 14 Sep 2026 06:36:10 GMT
 
