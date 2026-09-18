@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order VII Rule 14(3) CPC| No Absolute Bar On Receiving Documents At Stage Of Arguments: Allahabad High Court](https://www.verdictum.in/allahabad-high-court/mona-shukla-v-gyanendra-katiyar-2026ahc193257-discretion-under-order-vii-rule-143-cpc-1622245)
+- Fri, 18 Sep 2026 13:50:53 GMT
+
+### [Status Quo Violation Must Be Dealt Under Order 39 Rule 2(A) CPC, Not Section 164 BNSS: J&K High Court](https://www.livelaw.in/high-court/jammu-kashmir/status-quo-violation-must-be-dealt-under-order-39-rule-2a-cpc-not-section-164-bnss-jk-high-court-550645)
+- Fri, 18 Sep 2026 14:32:58 GMT
+
 ### [Virtually Impossible To Comply With Mandate Of Order VI Rule 14A CPC In John Doe Cases; Courts Must Adopt Progressive Approach: Kerala High Court](https://www.verdictum.in/kerala-high-court/cubes-entertainments-v-big-tree-entertainment-2026ker69867-order-vi-rule-14a-cpc-john-doe-1622089)
 - Wed, 16 Sep 2026 14:30:06 GMT
 
