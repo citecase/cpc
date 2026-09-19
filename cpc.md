@@ -1,5 +1,17 @@
 # CPC & Civil Procedure Updates
 
+### [Protective Or Preservatory Interim Orders Can't Be Passed Pending Disposal Of Leave Application: Supreme Court Clarifies Civil Court's Jurisdiction U/S 92 CPC](https://www.verdictum.in/supreme-court/s-panchalingu-v-peoples-education-trust-r-2026-insc-1010-civil-courts-jurisdiction-us-92-cpc-1622289)
+- Sat, 19 Sep 2026 07:10:34 GMT
+
+### [If Payment Is Made In Accordance With Order XXI Rule 1 CPC, Liability To Pay Interest Ceases: Supreme Court Urges Law Commission To Examine Court Deposit Framework](https://www.verdictum.in/supreme-court/national-seeds-corporation-ltd-v-national-agro-seed-corporation-india-2026-insc-1017-order-xxi-rule-1-cpc-1622295)
+- Sat, 19 Sep 2026 08:30:16 GMT
+
+### [S. 92 CPC | Civil Court Cannot Pass Interim Orders While Leave Application Is Pending Against Public Trust: Supreme Court](https://www.livelaw.in/supreme-court/s-92-cpc-civil-court-cannot-pass-interim-orders-while-leave-application-is-pending-against-public-trust-supreme-court-550751)
+- Sat, 19 Sep 2026 04:25:47 GMT
+
+### [O 7 Rule 11 CPC | Admissibility Of Document Cannot Be Decided While Considering Rejection Of Plaint : Supreme Court](https://www.livelaw.in/top-stories/supreme-court-admissibility-document-cannot-decided-considering-plea-rejection-plaint-550754)
+- Sat, 19 Sep 2026 05:15:23 GMT
+
 ### [Order VII Rule 14(3) CPC| No Absolute Bar On Receiving Documents At Stage Of Arguments: Allahabad High Court](https://www.verdictum.in/allahabad-high-court/mona-shukla-v-gyanendra-katiyar-2026ahc193257-discretion-under-order-vii-rule-143-cpc-1622245)
 - Fri, 18 Sep 2026 13:50:53 GMT
 
