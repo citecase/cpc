@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Weekly Overview| Supreme Court Judgments: September 14 – September 18, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-september-14-september-18-2026-1622405)
+- Mon, 21 Sep 2026 10:00:30 GMT
+
+### [Civil Court Empowered To Direct Forwarding Of Forgery Complaint To Police U/S 151 CPC Inherent Jurisdiction: MP High Court](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-can-direct-police-complaint-in-serious-forgery-cases-under-section-151-cpc-550973)
+- Mon, 21 Sep 2026 05:55:45 GMT
+
 ### [Protective Or Preservatory Interim Orders Can't Be Passed Pending Disposal Of Leave Application: Supreme Court Clarifies Civil Court's Jurisdiction U/S 92 CPC](https://www.verdictum.in/supreme-court/s-panchalingu-v-peoples-education-trust-r-2026-insc-1010-civil-courts-jurisdiction-us-92-cpc-1622289)
 - Sat, 19 Sep 2026 07:10:34 GMT
 
