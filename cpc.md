@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Once Trial On All Issues Has Started, One Issue Cannot Be Tried As Preliminary: : Supreme Court Explains Order XIV Rule 2(2) CPC](https://www.livelaw.in/top-stories/supreme-court-limitation-preliminary-issue-trial-orderxiv-rule22-cpc-551107)
+- Mon, 21 Sep 2026 12:54:09 GMT
+
 ### [Weekly Overview| Supreme Court Judgments: September 14 – September 18, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-september-14-september-18-2026-1622405)
 - Mon, 21 Sep 2026 10:00:30 GMT
 
