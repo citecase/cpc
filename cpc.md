@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Framing All Issues Does Not Exhaust Court's Discretion To Try A Preliminary Issue First: Supreme Court Clarifies Order XIV Rule 2(2) CPC](https://www.verdictum.in/supreme-court/john-mathew-v-santha-paul-2026-insc-1020-order-xiv-rule-22-cpc-1622453)
+- Tue, 22 Sep 2026 06:30:41 GMT
+
 ### [Once Trial On All Issues Has Started, One Issue Cannot Be Tried As Preliminary: : Supreme Court Explains Order XIV Rule 2(2) CPC](https://www.livelaw.in/top-stories/supreme-court-limitation-preliminary-issue-trial-orderxiv-rule22-cpc-551107)
 - Mon, 21 Sep 2026 12:54:09 GMT
 
