@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order VII Rule 14(3) CPC | Closure Of Evidence Doesn't Prevent Court From Allowing Additional Documents At Final Arguments: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-closure-evidence-bar-documents-production-ordervii-rule143-final-arguments-stage-551353)
+- Wed, 23 Sep 2026 06:36:49 GMT
+
 ### [Framing All Issues Does Not Exhaust Court's Discretion To Try A Preliminary Issue First: Supreme Court Clarifies Order XIV Rule 2(2) CPC](https://www.verdictum.in/supreme-court/john-mathew-v-santha-paul-2026-insc-1020-order-xiv-rule-22-cpc-1622453)
 - Tue, 22 Sep 2026 06:30:41 GMT
 
