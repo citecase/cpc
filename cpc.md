@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court: Once Trial commences on all issues, one issue cannot subsequently be tried as preliminary under Order 14 Rule 2(2) CPC](https://www.scconline.com/blog/post/2026/09/25/supreme-court-on-order-xiv-rule-22-cpc-preliminary-issues/)
+- Fri, 25 Sep 2026 03:30:23 +0000
+
 ### [Order VII Rule 14(3) CPC | Closure Of Evidence Doesn't Prevent Court From Allowing Additional Documents At Final Arguments: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-closure-evidence-bar-documents-production-ordervii-rule143-final-arguments-stage-551353)
 - Wed, 23 Sep 2026 06:36:49 GMT
 
