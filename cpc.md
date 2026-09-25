@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order V Rule 20 CPC | Locked House, Incomplete Address Not Enough To Resort To Newspaper Publication For Summons: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-locked-house-incomplete-address-substituted-service-orderv-rule20-cpc-551742)
+- Fri, 25 Sep 2026 06:00:28 GMT
+
 ### [Supreme Court: Once Trial commences on all issues, one issue cannot subsequently be tried as preliminary under Order 14 Rule 2(2) CPC](https://www.scconline.com/blog/post/2026/09/25/supreme-court-on-order-xiv-rule-22-cpc-preliminary-issues/)
 - Fri, 25 Sep 2026 03:30:23 +0000
 
