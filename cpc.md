@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Know The Law | When Can An Issue Be Tried First Under Order XIV Rule 2 CPC As Preliminary Issue?](https://www.livelaw.in/know-the-law/when-can-an-issue-be-tried-first-under-orderxiv-rule2-cpc-551862)
+- Sat, 26 Sep 2026 13:29:22 GMT
+
 ### [Order V Rule 20 CPC | Locked House, Incomplete Address Not Enough To Resort To Newspaper Publication For Summons: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-locked-house-incomplete-address-substituted-service-orderv-rule20-cpc-551742)
 - Fri, 25 Sep 2026 06:00:28 GMT
 
