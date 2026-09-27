@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Source Of Purchase Money By Itself Not Sufficient To Determine Whether A Transaction Is Benami: Delhi High Court](https://www.verdictum.in/delhi-high-court/surya-deep-garg-suraj-garg-v-neha-garg-2026dhc8248-exception-for-spouse-under-benami-act-1622841)
+- Sun, 27 Sep 2026 13:30:13 GMT
+
 ### [Know The Law | When Can An Issue Be Tried First Under Order XIV Rule 2 CPC As Preliminary Issue?](https://www.livelaw.in/know-the-law/when-can-an-issue-be-tried-first-under-orderxiv-rule2-cpc-551862)
 - Sat, 26 Sep 2026 13:29:22 GMT
 
