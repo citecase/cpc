@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court Refuses To Interfere With Ex-CM Bhupesh Baghel Plea For Now, Leaves Limitation Issue Open](https://www.verdictum.in/supreme-court/no-interference-ex-cm-bhupesh-baghel-plea-limitation-issue-open-1622898)
+- Mon, 28 Sep 2026 09:30:48 GMT
+
+### [Weekly Overview| Supreme Court Judgments: September 21 – September 25, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-september-21-september-25-2026-1622906)
+- Mon, 28 Sep 2026 12:30:06 GMT
+
 ### [Source Of Purchase Money By Itself Not Sufficient To Determine Whether A Transaction Is Benami: Delhi High Court](https://www.verdictum.in/delhi-high-court/surya-deep-garg-suraj-garg-v-neha-garg-2026dhc8248-exception-for-spouse-under-benami-act-1622841)
 - Sun, 27 Sep 2026 13:30:13 GMT
 
