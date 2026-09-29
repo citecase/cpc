@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### ['Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota Implementation](https://www.livelaw.in/top-stories/who-heads-ncpcr-how-can-they-be-so-indifferent-supreme-court-rebukes-ncpcr-over-25-rte-quota-552277)
+- Tue, 29 Sep 2026 10:18:28 GMT
+
 ### [Supreme Court Refuses To Interfere With Ex-CM Bhupesh Baghel Plea For Now, Leaves Limitation Issue Open](https://www.verdictum.in/supreme-court/no-interference-ex-cm-bhupesh-baghel-plea-limitation-issue-open-1622898)
 - Mon, 28 Sep 2026 09:30:48 GMT
 
