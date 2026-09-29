@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [O. 2 R. 2 CPC | Omitted Relief Remains Barred Despite Order 23 Liberty To File Fresh Suit : Supreme Court](https://www.livelaw.in/supreme-court/o-2-r-2-cpc-omitted-relief-remains-barred-despite-order-23-liberty-to-file-fresh-suit-supreme-court-552332)
+- Tue, 29 Sep 2026 14:12:17 GMT
+
 ### ['Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota Implementation](https://www.livelaw.in/top-stories/who-heads-ncpcr-how-can-they-be-so-indifferent-supreme-court-rebukes-ncpcr-over-25-rte-quota-552277)
 - Tue, 29 Sep 2026 10:18:28 GMT
 
