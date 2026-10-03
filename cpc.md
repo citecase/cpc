@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### ["Due Diligence" Proviso To Order VI Rule 17 CPC Is No Bar To Amendment Seeking Incorporation Of Relief U/S 22 Specific Relief Act: Rajasthan High Court](https://www.verdictum.in/rajasthan-high-court/2026-rj-jd-45424-ishwar-chand-jangid-v-manoj-kumar-sharma-1623271)
+- Sat, 03 Oct 2026 12:30:12 GMT
+
+### [UPSC Invites Applications For Posts Of Assistant Legislative Counsel, Law Officer](https://www.verdictum.in/job-updates/union-public-service-commission-1623276)
+- Sat, 03 Oct 2026 15:50:36 GMT
+
 ### [Mere Availability Of Alternative Remedy Under Order 39 Rule 2A CPC Won’t Preclude Litigant To Invoke Sec.151 CPC For Enforcement Of Injunction Order Through Police Assistance: Himachal Pradesh High Court](https://www.verdictum.in/himachal-high-court/prem-lal-v-sapna-anr-2026hhc42288-o39-r2a-cpc-sec151-injunction-order-police-assistance-1623142)
 - Thu, 01 Oct 2026 10:30:14 GMT
 
