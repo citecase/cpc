@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Section 151 CPC Can Permit Additional Evidence After Closure Of Trial If Necessary In Interests Of Justice: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/section-151-cpc-can-permit-additional-evidence-after-closure-of-trial-if-necessary-in-interests-of-justice-jk-high-court-553241)
+- Wed, 07 Oct 2026 04:50:23 GMT
+
 ### [Omission to claim mesne profits in ejectment suit can be cured by amendment before framing of issues: J&K and Ladakh HC declines interference under Art. 227](https://www.scconline.com/blog/post/2026/10/06/omission-to-claim-mesne-profits-ejectment-suit-amendment-before-framing-issue-j-k-ladakh-hc/)
 - Tue, 06 Oct 2026 11:30:39 +0000
 
