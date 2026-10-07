@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Civil Court Can Direct Police Assistance To Enforce Injunction Order Under Section 151 CPC: Himachal Pradesh High Court](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-civil-court-direct-police-assistance-enforce-injunction-order-553519)
+- Wed, 07 Oct 2026 12:01:16 GMT
+
 ### [Section 151 CPC Can Permit Additional Evidence After Closure Of Trial If Necessary In Interests Of Justice: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/section-151-cpc-can-permit-additional-evidence-after-closure-of-trial-if-necessary-in-interests-of-justice-jk-high-court-553241)
 - Wed, 07 Oct 2026 04:50:23 GMT
 
