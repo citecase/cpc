@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Waqf Tribunal Can Permit Interrogatories Under Order XI CPC: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-waqf-tribunal-interrogatories-order-xi-cpc-553740)
+- Thu, 08 Oct 2026 11:45:07 GMT
+
 ### [Civil Court Can Direct Police Assistance To Enforce Injunction Order Under Section 151 CPC: Himachal Pradesh High Court](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-civil-court-direct-police-assistance-enforce-injunction-order-553519)
 - Wed, 07 Oct 2026 12:01:16 GMT
 
