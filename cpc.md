@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Senior & Junior Consultant Vacancy At Delhi Commission for Protection of Child Rights (DCPCR)](https://www.verdictum.in/job-updates/delhi-commission-for-protection-of-child-rights-1623756)
+- Sat, 10 Oct 2026 14:30:35 GMT
+
 ### [Waqf Tribunal Can Permit Interrogatories Under Order XI CPC: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-waqf-tribunal-interrogatories-order-xi-cpc-553740)
 - Thu, 08 Oct 2026 11:45:07 GMT
 
