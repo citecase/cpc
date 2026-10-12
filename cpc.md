@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order VI Rule 17 CPC | Subject-Matter Jurisdiction Must Be Decided Before Application For Amendment Of Plaint: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-order-vii-rule10-rule11-decided-before-amendment-application-554196)
+- Mon, 12 Oct 2026 08:58:51 GMT
+
+### [Order VI Rule 17 CPC | Amendment Permissible If Additional Facts & Reliefs Have Direct Nexus With Existing Controversy: Supreme Court](https://www.livelaw.in/supreme-court/order-vi-rule-17-cpc-amendment-permissible-if-additional-facts-reliefs-have-direct-nexus-with-existing-controversy-supreme-court-554330)
+- Mon, 12 Oct 2026 14:31:24 GMT
+
 ### [Senior & Junior Consultant Vacancy At Delhi Commission for Protection of Child Rights (DCPCR)](https://www.verdictum.in/job-updates/delhi-commission-for-protection-of-child-rights-1623756)
 - Sat, 10 Oct 2026 14:30:35 GMT
 
