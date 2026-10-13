@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [CPC | Order Rejecting Application Under Order 9 Rule 9 CPC Appealable Under Order 43: J&K High Court](https://www.livelaw.in/high-court/jammu-kashmir/cpc-order-rejecting-application-under-order-ix-rule-9-cpc-appealable-under-order-xliii-jk-high-court-554096)
+- Mon, 12 Oct 2026 15:39:12 GMT
+
 ### [Order VI Rule 17 CPC | Subject-Matter Jurisdiction Must Be Decided Before Application For Amendment Of Plaint: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-order-vii-rule10-rule11-decided-before-amendment-application-554196)
 - Mon, 12 Oct 2026 08:58:51 GMT
 
