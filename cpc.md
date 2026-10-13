@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Married Daughter Has Right To Claim Share In Joint Property Granted To Predecessors Under Karnataka Land Reforms Act: Karnataka High Court](https://www.verdictum.in/karnataka-high-court/smt-jayavva-v-smt-girijavva-2026khc-d15990-karnataka-land-reforms-act-married-daughter-property-1623883)
+- Tue, 13 Oct 2026 06:00:39 GMT
+
+### [Order VI Rule 17 CPC|Amendment Application Needn’t Be Rejected At Threshold Where Question Of Limitation Is Arguable & Depends Upon Disputed Facts: Supreme Court](https://www.verdictum.in/supreme-court/haramani-sahoo-and-others-v-lalita-nayak-and-others-2026-insc-1112-ovi-r17-cpc-amendment-1623885)
+- Tue, 13 Oct 2026 07:00:52 GMT
+
 ### [CPC | Order Rejecting Application Under Order 9 Rule 9 CPC Appealable Under Order 43: J&K High Court](https://www.livelaw.in/high-court/jammu-kashmir/cpc-order-rejecting-application-under-order-ix-rule-9-cpc-appealable-under-order-xliii-jk-high-court-554096)
 - Mon, 12 Oct 2026 15:39:12 GMT
 
