@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Mother's Non-Appearance In Pending Custody Suit Cannot Be Ground To Seek Modification Under Section 151 CPC: Jharkhand High Court](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-nonappearance-pending-custody-suit-ground-seek-modification-section151-cpc-554557)
+- Wed, 14 Oct 2026 08:15:14 GMT
+
 ### [Married Daughter Has Right To Claim Share In Joint Property Granted To Predecessors Under Karnataka Land Reforms Act: Karnataka High Court](https://www.verdictum.in/karnataka-high-court/smt-jayavva-v-smt-girijavva-2026khc-d15990-karnataka-land-reforms-act-married-daughter-property-1623883)
 - Tue, 13 Oct 2026 06:00:39 GMT
 
