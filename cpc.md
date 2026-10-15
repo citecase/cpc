@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [AIBE-XXII syllabus: BCI announces subject-wise weightage](https://www.scconline.com/blog/post/2026/10/15/bar-council-of-india-released-aibe-xxii-syllabus/)
+- Thu, 15 Oct 2026 13:00:22 +0000
+
+### [Alleged Failure To Assess Decree-Holder's Mental Capacity Can't Be Reopened Under S. 47 CPC After Decree Attains Finality: Kerala High Court](https://www.livelaw.in/high-court/kerala-high-court/failure-to-inquire-decree-holders-mental-capacity-cannot-reopen-section-47-cpc-decree-finality-554876)
+- Thu, 15 Oct 2026 13:30:51 GMT
+
 ### [Mother's Non-Appearance In Pending Custody Suit Cannot Be Ground To Seek Modification Under Section 151 CPC: Jharkhand High Court](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-nonappearance-pending-custody-suit-ground-seek-modification-section151-cpc-554557)
 - Wed, 14 Oct 2026 08:15:14 GMT
 
