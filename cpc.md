@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Supreme Court Seeks Response From Centre & NCPCR In Plea Seeking Framework To Protect Children From Social Media Risks](https://www.verdictum.in/supreme-court/supreme-court-plea-seeking-framework-to-protect-children-from-social-media-risks-1624123)
+- Fri, 16 Oct 2026 10:30:36 GMT
+
 ### [AIBE-XXII syllabus: BCI announces subject-wise weightage](https://www.scconline.com/blog/post/2026/10/15/bar-council-of-india-released-aibe-xxii-syllabus/)
 - Thu, 15 Oct 2026 13:00:22 +0000
 
