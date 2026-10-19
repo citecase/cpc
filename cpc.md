@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Order XXI Rule 97 CPC| Executing Court Must Conduct Full Fledged Enquiry Into All Questions: Supreme Court](https://www.verdictum.in/supreme-court/alladin-charities-and-zakat-wakf-v-mohammed-saleem-alias-mohd-wajid-ali-and-another-2026-insc-1122-1624279)
+- Mon, 19 Oct 2026 07:10:22 GMT
+
 ### [Supreme Court Seeks Response From Centre & NCPCR In Plea Seeking Framework To Protect Children From Social Media Risks](https://www.verdictum.in/supreme-court/supreme-court-plea-seeking-framework-to-protect-children-from-social-media-risks-1624123)
 - Fri, 16 Oct 2026 10:30:36 GMT
 
