@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Weekly Overview| Supreme Court Judgments: October 12– October 16, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302)
+- Mon, 19 Oct 2026 13:10:57 GMT
+
 ### [Order XXI Rule 97 CPC| Executing Court Must Conduct Full Fledged Enquiry Into All Questions: Supreme Court](https://www.verdictum.in/supreme-court/alladin-charities-and-zakat-wakf-v-mohammed-saleem-alias-mohd-wajid-ali-and-another-2026-insc-1122-1624279)
 - Mon, 19 Oct 2026 07:10:22 GMT
 
