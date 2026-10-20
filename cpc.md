@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Know The Law | When Can A Plaint Be Amended After Trial Has Begun? Supreme Court Explains Order VI Rule 17 CPC](https://www.livelaw.in/know-the-law/supreme-court-explains-ordervi-rule17-cpc-555398)
+- Tue, 20 Oct 2026 10:44:56 GMT
+
 ### [Weekly Overview| Supreme Court Judgments: October 12– October 16, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302)
 - Mon, 19 Oct 2026 13:10:57 GMT
 
