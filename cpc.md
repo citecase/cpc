@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [“Difficulties Of A Litigant In India Begin When He Has Obtained A Decree”: Bombay High Court Dismisses Obstructionist’s Plea Against 1974 Eviction Decree](https://www.verdictum.in/bombay-high-court/sameer-dinkarrao-javalekar-v-gulab-haribhau-ladkat-2026-bhc-as42341-litigant-in-india-half-the-battle-winning-obstructionist-changed-avatar-1624353)
+- Wed, 21 Oct 2026 04:30:31 GMT
+
 ### [Know The Law | When Can A Plaint Be Amended After Trial Has Begun? Supreme Court Explains Order VI Rule 17 CPC](https://www.livelaw.in/know-the-law/supreme-court-explains-ordervi-rule17-cpc-555398)
 - Tue, 20 Oct 2026 10:44:56 GMT
 
