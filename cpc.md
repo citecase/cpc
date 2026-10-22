@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [HP High Court Refuses To Reject Suit Challenging Cooperative Society Election, Says Defence Cannot Be Considered Under Order VII Rule 11 CPC](https://www.livelaw.in/high-court/himachal-pradesh-high-court/hp-high-court-refuses-reject-suit-challenging-cooperative-society-election-555591)
+- Thu, 22 Oct 2026 10:45:38 GMT
+
 ### [“Difficulties Of A Litigant In India Begin When He Has Obtained A Decree”: Bombay High Court Dismisses Obstructionist’s Plea Against 1974 Eviction Decree](https://www.verdictum.in/bombay-high-court/sameer-dinkarrao-javalekar-v-gulab-haribhau-ladkat-2026-bhc-as42341-litigant-in-india-half-the-battle-winning-obstructionist-changed-avatar-1624353)
 - Wed, 21 Oct 2026 04:30:31 GMT
 
