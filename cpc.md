@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [When Can Courts Reopen Evidence Under Section 151 CPC After Trial Closes: J&K&L High Court Explains](https://www.livelaw.in/high-court/jammu-kashmir/when-courts-can-reopen-evidence-under-section-151-cpc-after-trial-closes-jkl-high-court-explains-555917)
+- Mon, 26 Oct 2026 13:25:58 GMT
+
 ### [HP High Court Refuses To Reject Suit Challenging Cooperative Society Election, Says Defence Cannot Be Considered Under Order VII Rule 11 CPC](https://www.livelaw.in/high-court/himachal-pradesh-high-court/hp-high-court-refuses-reject-suit-challenging-cooperative-society-election-555591)
 - Thu, 22 Oct 2026 10:45:38 GMT
 
