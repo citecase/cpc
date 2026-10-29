@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Execution Application Filed Under Order XXI Rule 97-101 CPC Is On Par With Regular Suit: Supreme Court](https://www.verdictum.in/supreme-court/balakrishna-v-gn-kanniah-naidu-2026-insc-1155-order-xxi-rule-101-separate-suit-title-1624756)
+- Thu, 29 Oct 2026 10:00:51 GMT
+
 ### [Order 21 Rule 97 CPC | Executing Court Cannot Direct Third Party To File Separate Suit To Challenge Decree : Supreme Court](https://www.livelaw.in/supreme-court/order-21-rule-97-cpc-executing-court-cannot-direct-third-party-to-file-separate-suit-to-challenge-decree-supreme-court-556142)
 - Tue, 27 Oct 2026 09:07:47 GMT
 
