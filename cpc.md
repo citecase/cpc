@@ -1,5 +1,14 @@
 # CPC & Civil Procedure Updates
 
+### [“Diwali Cleaning” Cannot Convert Documents Always In Plaintiff’s Custody Into “Subsequently Discovered” Ones: Delhi High Court Dismisses Plea For Additional Evidence](https://www.verdictum.in/delhi-high-court/ms-cafe-brown-sugar-pvt-ltd-v-vyom-foodcraft-pvt-ltd-2026dhc9604-additional-documents-in-commercial-suit-1624809)
+- Fri, 30 Oct 2026 08:40:11 GMT
+
+### [S. 96 CPC | Non-Parties Can Challenge Consent Decree With Leave If Their Rights Are Affected: Supreme Court](https://www.livelaw.in/supreme-court/s-96-cpc-non-parties-can-challenge-consent-decree-with-leave-if-their-rights-are-affected-supreme-court-556670)
+- Fri, 30 Oct 2026 11:16:00 GMT
+
+### [Disputed Liability Cannot Be Converted Into Admitted Obligation To Attract Order 39 Rule 10 CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/disputed-liability-cannot-be-converted-into-admitted-obligation-to-attract-order-xxxix-rule-10-cpc-jk-high-court-556521)
+- Fri, 30 Oct 2026 11:56:45 GMT
+
 ### [Execution Application Filed Under Order XXI Rule 97-101 CPC Is On Par With Regular Suit: Supreme Court](https://www.verdictum.in/supreme-court/balakrishna-v-gn-kanniah-naidu-2026-insc-1155-order-xxi-rule-101-separate-suit-title-1624756)
 - Thu, 29 Oct 2026 10:00:51 GMT
 
