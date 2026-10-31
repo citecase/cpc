@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Ambit Of Constructive Trust, And What Does Section 92 CPC Bring Into Play?](https://www.livelaw.in/articles/ambit-constructive-trust-section92-cpc-bring-into-play-556504)
+- Sat, 31 Oct 2026 09:31:04 GMT
+
 ### [“Diwali Cleaning” Cannot Convert Documents Always In Plaintiff’s Custody Into “Subsequently Discovered” Ones: Delhi High Court Dismisses Plea For Additional Evidence](https://www.verdictum.in/delhi-high-court/ms-cafe-brown-sugar-pvt-ltd-v-vyom-foodcraft-pvt-ltd-2026dhc9604-additional-documents-in-commercial-suit-1624809)
 - Fri, 30 Oct 2026 08:40:11 GMT
 
