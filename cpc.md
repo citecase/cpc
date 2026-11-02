@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Proviso To Order VI Rule 17 CPC Cannot Be Elevated Into An Inflexible Rule Defeating Section 10(3) Of Family Courts Act: Delhi High Court](https://www.verdictum.in/delhi-high-court/s-sy-v-st-2026dhc9444-family-courts-act-husband-amend-pleadings-1624995)
+- Mon, 02 Nov 2026 08:00:50 GMT
+
 ### [Ambit Of Constructive Trust, And What Does Section 92 CPC Bring Into Play?](https://www.livelaw.in/articles/ambit-constructive-trust-section92-cpc-bring-into-play-556504)
 - Sat, 31 Oct 2026 09:31:04 GMT
 
