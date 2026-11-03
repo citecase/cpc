@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Weekly Overview| Supreme Court Judgments: October 26– October 30, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-26-october-30-2026-1625041)
+- Tue, 03 Nov 2026 05:00:06 GMT
+
+### [Supreme Court Quarterly Digest 2026 - Code of Civil Procedure (CPC) [July To September]](https://www.livelaw.in/supreme-court/supreme-court-quarterly-digest-2026-code-of-civil-procedure-557063)
+- Tue, 03 Nov 2026 07:36:28 GMT
+
 ### [Proviso To Order VI Rule 17 CPC Cannot Be Elevated Into An Inflexible Rule Defeating Section 10(3) Of Family Courts Act: Delhi High Court](https://www.verdictum.in/delhi-high-court/s-sy-v-st-2026dhc9444-family-courts-act-husband-amend-pleadings-1624995)
 - Mon, 02 Nov 2026 08:00:50 GMT
 
