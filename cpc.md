@@ -1,5 +1,17 @@
 # CPC & Civil Procedure Updates
 
+### [What is the scope of review under Order 47 Rule 1 CPC? Andhra Pradesh High Court dismisses review in partition dispute over self-acquired property](https://www.scconline.com/blog/post/2026/11/05/ap-hc-scope-of-review-order-47-rule-1-cpc-partition-dispute/)
+- Thu, 05 Nov 2026 10:30:40 +0000
+
+### [Plaint Can Be Rejected Prior To Its Registration; Such Rejection Ought To Be Duly Recorded In Register Maintained As Per Order IV Rule 2 Of CPC: Supreme Court](https://www.verdictum.in/supreme-court/cause-title-g-pazhanivel-v-s-thilagavathy-2026-insc-1197-plaint-rejected-order-iv-rule-2-cpc-1625210)
+- Thu, 05 Nov 2026 12:30:35 GMT
+
+### [CPC | Plaints Rejected At Pre-Registration Stage Must Be Recorded Under Order IV Rule 2 : Supreme Court](https://www.livelaw.in/supreme-court/cpc-plaints-rejected-at-pre-registration-stage-must-be-recorded-under-order-iv-rule-2-supreme-court-557517)
+- Thu, 05 Nov 2026 12:37:00 GMT
+
+### [LiveLaw Academy Launches “Smart Civil Litigation: CPC, Digital Tools & Courtroom Practice” by Justice K. Kannan (Retd.)](https://www.livelaw.in/top-stories/livelaw-academy-launches-smart-civil-litigation-cpc-digital-tools-courtroom-practice-by-justice-k-kannan-retd-557563)
+- Thu, 05 Nov 2026 17:14:52 GMT
+
 ### [Weekly Overview| Supreme Court Judgments: October 26– October 30, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-26-october-30-2026-1625041)
 - Tue, 03 Nov 2026 05:00:06 GMT
 
