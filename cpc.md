@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Order 37 CPC | Failed Settlement Can't Revive Defendant's Right To Defend Summary Suit After Service Of Summons: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-right-seek-leave-cannot-revived-557599)
+- Fri, 06 Nov 2026 06:50:30 GMT
+
+### [The Only CPC Course You Need! | Learn Civil Litigation with Justice K. Kannan](https://www.livelaw.in/videos/cpc-civil-procedure-code-livelaw-livelaw-academy-law-students-advocates-legal-education-litigation-557676)
+- Fri, 06 Nov 2026 12:11:33 GMT
+
 ### [NOIDA Is 'State' Under Article 12 But Not 'Govt' Under Section 80 CPC, No Prior Notice Needed Before Suing It: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-noida-state-article12-government-557573)
 - Fri, 06 Nov 2026 04:55:47 GMT
 
