@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [NOIDA Is 'State' Under Article 12 But Not 'Govt' Under Section 80 CPC, No Prior Notice Needed Before Suing It: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-noida-state-article12-government-557573)
+- Fri, 06 Nov 2026 04:55:47 GMT
+
 ### [What is the scope of review under Order 47 Rule 1 CPC? Andhra Pradesh High Court dismisses review in partition dispute over self-acquired property](https://www.scconline.com/blog/post/2026/11/05/ap-hc-scope-of-review-order-47-rule-1-cpc-partition-dispute/)
 - Thu, 05 Nov 2026 10:30:40 +0000
 
