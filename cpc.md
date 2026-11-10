@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Legal Assistant Vacancy At University of Delhi](https://www.verdictum.in/job-updates/university-of-delhi-1625446)
+- Mon, 09 Nov 2026 16:00:06 GMT
+
 ### [Order 37 CPC | Failed Settlement Can't Revive Defendant's Right To Defend Summary Suit After Service Of Summons: Rajasthan High Court](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-right-seek-leave-cannot-revived-557599)
 - Fri, 06 Nov 2026 06:50:30 GMT
 
