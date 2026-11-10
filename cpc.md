@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Weekly Overview| Supreme Court Judgments: November 2 – November 6, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-2-november-6-2026-1625472)
+- Tue, 10 Nov 2026 05:50:13 GMT
+
 ### [Legal Assistant Vacancy At University of Delhi](https://www.verdictum.in/job-updates/university-of-delhi-1625446)
 - Mon, 09 Nov 2026 16:00:06 GMT
 
