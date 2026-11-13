@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [“Review petition cannot become an appeal in disguise”; Delhi HC reiterates scope of review under Order 47 Rule 1 CPC](https://www.scconline.com/blog/post/2026/11/13/delhi-hc-scope-of-review-order-47-rule-1-cpc/)
+- Fri, 13 Nov 2026 07:30:31 +0000
+
 ### [Weekly Overview| Supreme Court Judgments: November 2 – November 6, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-2-november-6-2026-1625472)
 - Tue, 10 Nov 2026 05:50:13 GMT
 
