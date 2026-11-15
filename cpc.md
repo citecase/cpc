@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Deposit Of Balance Amount After Passing Of Decree Cannot Retrospectively Revive Right To Defend Under Order XXXVII CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/deposit-of-balance-amount-after-passing-of-decree-cannot-retrospectively-revive-right-to-defend-under-order-xxxvii-cpc-jk-high-court-558457)
+- Sun, 15 Nov 2026 05:55:57 GMT
+
 ### [“Review petition cannot become an appeal in disguise”; Delhi HC reiterates scope of review under Order 47 Rule 1 CPC](https://www.scconline.com/blog/post/2026/11/13/delhi-hc-scope-of-review-order-47-rule-1-cpc/)
 - Fri, 13 Nov 2026 07:30:31 +0000
 
