@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Remand Under Order XLI Rule 23A CPC Is A Retrial, Not De Novo Trial; Earlier Evidence Remains Intact: Madras High Court](https://www.verdictum.in/madras-high-court/andalammal-and-others-v-djealatchoumy-2026mhc4565-order-xli-rule-23a-cpc-retrial-1625973)
+- Wed, 18 Nov 2026 10:30:52 GMT
+
 ### [Deposit Of Balance Amount After Passing Of Decree Cannot Retrospectively Revive Right To Defend Under Order XXXVII CPC: J&K&L High Court](https://www.livelaw.in/high-court/jammu-kashmir/deposit-of-balance-amount-after-passing-of-decree-cannot-retrospectively-revive-right-to-defend-under-order-xxxvii-cpc-jk-high-court-558457)
 - Sun, 15 Nov 2026 05:55:57 GMT
 
