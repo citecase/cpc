@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Post-decree deposit cannot retrospectively revive right to defend summary suit under Order 37 CPC: J&K and Ladakh HC](https://www.scconline.com/blog/post/2026/11/19/leave-to-defend-summary-trial-order-37-cpc-jk-hc/)
+- Thu, 19 Nov 2026 11:30:59 +0000
+
 ### [Remand Under Order XLI Rule 23A CPC Is A Retrial, Not De Novo Trial; Earlier Evidence Remains Intact: Madras High Court](https://www.verdictum.in/madras-high-court/andalammal-and-others-v-djealatchoumy-2026mhc4565-order-xli-rule-23a-cpc-retrial-1625973)
 - Wed, 18 Nov 2026 10:30:52 GMT
 
