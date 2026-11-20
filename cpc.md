@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [Section 92 CPC Suit Doesn't Give Every Devotee An Automatic Right To Be Impleaded: Supreme Court](https://www.livelaw.in/top-stories/supreme-court-section92-cpc-suit-devotee-automatic-right-impleaded-559258)
+- Fri, 20 Nov 2026 06:42:33 GMT
+
 ### [Post-decree deposit cannot retrospectively revive right to defend summary suit under Order 37 CPC: J&K and Ladakh HC](https://www.scconline.com/blog/post/2026/11/19/leave-to-defend-summary-trial-order-37-cpc-jk-hc/)
 - Thu, 19 Nov 2026 11:30:59 +0000
 
