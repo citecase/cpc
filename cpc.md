@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Weekly Overview| Supreme Court Judgments: November 16 – November 20, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-16-november-20-2026-1626366)
+- Tue, 24 Nov 2026 10:30:33 GMT
+
+### [Citing Fabricated Judgment Is Professional Misconduct But Won’t Invalidate Decision Based On Sound Legal Principle: Allahabad High Court](https://www.verdictum.in/allahabad-high-court/shri-bhagwan-shrikrishna-lala-virajman-v-up-sunni-central-waqf-board-fabricated-judgment-1626381)
+- Tue, 24 Nov 2026 14:00:21 GMT
+
 ### [Paying Guest Arrangement Is Closer To Concept Of License Than Lease: Delhi High Court](https://www.verdictum.in/delhi-high-court/do-sh-sunder-lal-v-pooja-gupta-2026dhc10313-paying-guest-license-lease-suit-property-1626341)
 - Tue, 24 Nov 2026 05:30:13 GMT
 
