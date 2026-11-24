@@ -1,5 +1,11 @@
 # CPC & Civil Procedure Updates
 
+### [Paying Guest Arrangement Is Closer To Concept Of License Than Lease: Delhi High Court](https://www.verdictum.in/delhi-high-court/do-sh-sunder-lal-v-pooja-gupta-2026dhc10313-paying-guest-license-lease-suit-property-1626341)
+- Tue, 24 Nov 2026 05:30:13 GMT
+
+### [Citing Fabricated Judgments May Be Professional Misconduct, But Won't Invalidate An Otherwise Sound Order: Allahabad High Court](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-fake-judgments-professional-misconduct-559757)
+- Tue, 24 Nov 2026 07:31:27 GMT
+
 ### [Section 92 CPC Suit Doesn't Give Every Devotee An Automatic Right To Be Impleaded: Supreme Court](https://www.livelaw.in/top-stories/supreme-court-section92-cpc-suit-devotee-automatic-right-impleaded-559258)
 - Fri, 20 Nov 2026 06:42:33 GMT
 
