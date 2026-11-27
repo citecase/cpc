@@ -1,5 +1,8 @@
 # CPC & Civil Procedure Updates
 
+### [MCD Receipts, Municipal Correspondence & Electricity Bills Don’t Establish Property Ownership: Delhi High Court](https://www.verdictum.in/delhi-high-court/neera-suri-v-jagjit-singh-sawhney-since-deceased-thr-lrs-2026dhc10404-mcd-receipts-ownership-1626541)
+- Fri, 27 Nov 2026 04:30:03 GMT
+
 ### [Weekly Overview| Supreme Court Judgments: November 16 – November 20, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-16-november-20-2026-1626366)
 - Tue, 24 Nov 2026 10:30:33 GMT
 
